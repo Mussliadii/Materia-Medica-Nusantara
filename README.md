@@ -12,8 +12,10 @@ exposed through an interactive knowledge graph and a public-facing dashboard.
 ## Table of contents
 
 - [Problem statement](#problem-statement)
+- [Why this matters — root-cause analysis](#why-this-matters--root-cause-analysis)
 - [What this project does](#what-this-project-does)
 - [Architecture](#architecture)
+- [Screenshots](#screenshots)
 - [Repository structure](#repository-structure)
 - [Data sources & licences](#data-sources--licences)
 - [Setup](#setup)
@@ -33,6 +35,59 @@ simple question: for a given traditional claim ("plant X is used for Y"), is the
 pharmacological evidence behind it, and how strong is it? This project builds that bridge
 automatically and transparently, including being explicit about when evidence has *not* been
 found — without asserting medical claims the data doesn't support.
+
+## Why this matters — root-cause analysis
+
+*Jamu* is a living heritage of the Indonesian archipelago, but it's losing ground for several
+independent reasons at once. Laid out as a fishbone (Ishikawa) diagram, with "jamu's scientific
+legitimacy and cultural heritage at risk" as the effect:
+
+```mermaid
+flowchart LR
+    classDef effect fill:#0B3C5D,color:#ffffff,stroke:#0B3C5D,font-weight:bold
+    classDef cat fill:#E6EEF5,stroke:#1A7F8E,color:#0B3C5D,font-weight:bold
+    classDef cause fill:#ffffff,stroke:#E4E7EB,color:#52606D
+
+    EFFECT("Jamu's scientific legitimacy<br/>and cultural heritage<br/>at risk of being lost"):::effect
+
+    subgraph PEOPLE[People]
+        P1[Tradition-bearers ageing<br/>without successors]
+        P2[Younger generations<br/>disengaged from the knowledge]
+    end
+    subgraph DATA[Data]
+        D1[Scattered across old texts,<br/>chemical DBs, literature]
+        D2[No cross-source<br/>name standardisation]
+    end
+    subgraph METHOD[Method]
+        M1[No systematic evidence-<br/>scoring framework]
+        M2[Manual review can't scale<br/>to thousands of species]
+    end
+    subgraph PERCEPTION[Perception]
+        PC1["Dismissed as<br/>#quot;scientifically unproven#quot;"]
+        PC2[Undervalued next to<br/>modern medicine]
+    end
+    subgraph DIVERSITY[Species diversity]
+        DI1[Thousands of candidate<br/>jamu species]
+        DI2[Each needs independent<br/>validation]
+    end
+    subgraph TECH[Technology gap]
+        T1[No integrated tool linking<br/>tradition to evidence]
+    end
+
+    PEOPLE --> EFFECT
+    DATA --> EFFECT
+    METHOD --> EFFECT
+    PERCEPTION --> EFFECT
+    DIVERSITY --> EFFECT
+    TECH --> EFFECT
+
+    class P1,P2,D1,D2,M1,M2,PC1,PC2,DI1,DI2,T1 cause
+```
+
+Materia Medica Nusantara directly targets the **Data**, **Method**, and **Technology** bones —
+turning scattered sources into one systematically scored, auditable map — on the theory that
+closing those gaps is also the fastest way to push back on the **Perception** bone: nothing
+legitimises traditional knowledge faster than being able to point at real, citable evidence.
 
 ## What this project does
 
@@ -115,6 +170,40 @@ Plant.historical_names     <- parsed from PROSEA's Synonyms sections
 Plant.nlp_conditions       <- spaCy PhraseMatcher over PROSEA's free-text "Uses" paragraph
 ```
 
+## Screenshots
+
+**Overview** — dataset scale, evidence distribution, and featured species at a glance.
+
+![Overview tab](asset/overview.png)
+
+**Plant Library** — searchable, filterable photo gallery across all 663 species.
+
+![Plant Library gallery](asset/plant-library-gallery.png)
+
+**Plant detail** — per-species page with the historical name timeline (*Curcuma longa* traced
+from *Amomum curcuma*, 1776, to its current name) alongside live PubMed and compound counts.
+
+![Plant detail with name history timeline](asset/plant-library-detail.png)
+
+**Key compounds** — for the 30 flagship species, real PubChem structures with similarity-model
+badges (e.g. caffeic acid flagged as 0.45 similar to curcumin).
+
+![Key compounds with PubChem structures](asset/plant-library-compounds.png)
+
+**Network Explorer** — interactive compound–activity knowledge graph for a single species.
+
+![Network Explorer knowledge graph](asset/network-explorer.png)
+
+**Search by Activity** — reverse search from a pharmacological activity to candidate species and
+their compounds.
+
+![Search by Activity](asset/search-by-activity.png)
+
+**Structural Similarity** — the RDKit model's full results: compounds identical to approved drugs,
+and structural analogues ranked by Tanimoto score.
+
+![Structural Similarity results](asset/structural-similarity.png)
+
 ## Repository structure
 
 ```
@@ -122,6 +211,7 @@ Plant.nlp_conditions       <- spaCy PhraseMatcher over PROSEA's free-text "Uses"
 ├── README.md
 ├── requirements.txt
 ├── .streamlit/config.toml        # dashboard theme
+├── asset/                        # dashboard screenshots used in this README
 ├── data/
 │   └── processed/                # curated outputs checked into the repo (data/raw/ is not)
 ├── docs/
