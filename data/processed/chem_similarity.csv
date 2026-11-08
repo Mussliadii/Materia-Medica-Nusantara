@@ -1,0 +1,170 @@
+CHEM,title,cid,match_type,matched_drug,matched_drug_cid,tanimoto_similarity
+(-)-EPICATECHIN,Epicatechin,72276.0,no_close_match,Levodopa,6047,0.192
+"1,8-CINEOLE","1,8-Cineole",2758.0,no_close_match,Artemisinin,68827,0.167
+14-DEOXY-11-OXOANDROGRAPHOLIDE,14-Deoxy-11-oxoandrographolide,9975052.0,no_close_match,Digoxin,2724385,0.176
+"3ALPHA,6BETA-DITIGLOYLOXYTROPAN-7BETA-OL",Ditigloylteloidine,101656891.0,no_close_match,Scopolamine,3000322,0.298
+"5-HYDROXY-7,8,2',3'-TETRAMETHOXYFLAVONE","5-Hydroxy-2',3',7,8-tetramethoxyflavone",5319878.0,no_close_match,Colchicine,6167,0.254
+"5-HYDROXY-7,8,2'-TRIMETHOXYFLAVONE",Andrographin,5318506.0,no_close_match,Colchicine,6167,0.257
+ADENOSINE,Adenosine,60961.0,no_close_match,Pilocarpine,5910,0.136
+AESCULETIN,Esculetin,5281416.0,no_close_match,Levodopa,6047,0.22
+AESCULIN,Esculin,5281417.0,no_close_match,Curcumin,969516,0.194
+AJMALICINE,Ajmalicine,441975.0,no_close_match,Reserpine,5770,0.372
+AJMALINE,(+)-Ajmaline,6100671.0,no_close_match,Strychnine,441071,0.22
+ALLANTOIN,Allantoin,204.0,no_close_match,Acetaminophen,1983,0.128
+ALPHA-AMYRIN,Alpha-Amyrin,73170.0,no_close_match,Digitoxin,441207,0.163
+ALPHA-PHELLANDRENE,alpha-PHELLANDRENE,7460.0,no_close_match,Nicotine,89594,0.13
+ALPHA-PINENE,(+-)-alpha-Pinene,6654.0,no_close_match,Digoxin,2724385,0.125
+AMARIIN,Amariin,73989733.0,no_close_match,Cocaine,446220,0.149
+ANDROGRAPHOLIDE,Andrographolide,5318517.0,no_close_match,Digoxin,2724385,0.167
+APIGENIN,Apigenin,5280443.0,no_close_match,Acetaminophen,1983,0.214
+APOHYOSCINE,Apohyoscine,3083622.0,structural_analog,Scopolamine,3000322,0.569
+AR-CURCUMENE,Curcumene,92139.0,no_close_match,Ibuprofen,3672,0.268
+ASCORBIC-ACID,GlyTouCan:G74844RU,9888239.0,no_close_match,Scopolamine,3000322,0.179
+ATROPINE,Npc209773,174174.0,identical_to_known_drug,Atropine,174174,1.0
+AUCUBIN,Aucubin,91458.0,no_close_match,Scopolamine,3000322,0.137
+BAICALEIN,Baicalein,5281605.0,no_close_match,Warfarin,54678486,0.255
+BAICALIN,Baicalin,64982.0,no_close_match,Warfarin,54678486,0.208
+BENZOIC-ACID,Benzoic Acid,243.0,no_close_match,Aspirin,2244,0.357
+BENZYL-ALCOHOL,Benzyl Alcohol,244.0,no_close_match,Ephedrine,9294,0.241
+BETA-AMYRIN,Beta-Amyrin,73145.0,no_close_match,Digitoxin,441207,0.179
+BETA-CAROTENE,Beta-Carotene,5280489.0,no_close_match,Curcumin,969516,0.103
+BETA-PINENE,Beta-Pinene,14896.0,no_close_match,Digoxin,2724385,0.139
+BETA-SITOSTEROL,(-)-beta-Sitosterol,222284.0,no_close_match,Digitoxin,441207,0.165
+BETA-SITOSTEROL-BETA-D-GLUCOSIDE,beta-Sitosterol-beta-D-glucoside,12309055.0,no_close_match,Digitoxin,441207,0.212
+BETULIN,Betulin,72326.0,no_close_match,Digitoxin,441207,0.149
+BETULINIC-ACID,Betulinic Acid,64971.0,no_close_match,Digitoxin,441207,0.158
+BIS-DESMETHOXYCURCUMIN,Bisdemethoxycurcumin,5315472.0,structural_analog,Curcumin,969516,0.514
+BORNEOL,Borneol,64685.0,no_close_match,Digitoxin,441207,0.171
+CAFFEIC-ACID,Caffeic Acid,689043.0,structural_analog,Curcumin,969516,0.447
+CALCIUM,Calcium,5460341.0,no_close_match,Paclitaxel,36314,0.012
+CAMPESTEROL,Campesterol,173183.0,no_close_match,Digitoxin,441207,0.17
+CAMPHENE,Camphene,6616.0,no_close_match,Digoxin,2724385,0.141
+CAMPHOR,Camphor,2537.0,no_close_match,Artemisinin,68827,0.2
+CARENE,3-Carene,26049.0,no_close_match,Morphine,5288826,0.136
+CARYOPHYLLENE,(-)-Caryophyllene,5281515.0,no_close_match,Artemisinin,68827,0.133
+CHLOROGENIC-ACID,Chlorogenic Acid,1794427.0,no_close_match,Curcumin,969516,0.31
+CHOLINE,Choline,305.0,no_close_match,Metronidazole,4173,0.135
+CINNAMIC-ACID,Cinnamic Acid,444539.0,no_close_match,Curcumin,969516,0.282
+COPPER,Copper,23978.0,no_close_match,,,0.0
+CORILAGIN,Corilagin,73568.0,no_close_match,Scopolamine,3000322,0.167
+CORYNANTHINE,Corynanthine,92766.0,structural_analog,Reserpine,5770,0.5
+COUMARIN,Coumarin,323.0,no_close_match,Warfarin,54678486,0.239
+CROCETIN,Crocetin,5281232.0,no_close_match,Aspirin,2244,0.154
+CURCUMENOL,Curcumenol,167812.0,no_close_match,Digoxin,2724385,0.157
+CURCUMIN,Curcumin,969516.0,identical_to_known_drug,Curcumin,969516,1.0
+CURCUMOL,(-)-Curcumol,14240392.0,no_close_match,Artemisinin,68827,0.121
+CURDIONE,Curdione,14106072.0,no_close_match,Nicotine,89594,0.17
+CYANIDIN-3-SOPHOROSIDE,Cyanidin 3-sophoroside,44256720.0,no_close_match,Curcumin,969516,0.176
+CYANIDIN-CHLORIDE,Cyanidin Chloride,68247.0,no_close_match,Levodopa,6047,0.208
+D-BORNEOL,D-Borneol,6552009.0,no_close_match,Digitoxin,441207,0.171
+D-CAMPHOR,D-Camphor,159055.0,no_close_match,Artemisinin,68827,0.2
+D-GLUCURONIC-ACID,D-Glucuronic Acid,94715.0,no_close_match,Scopolamine,3000322,0.132
+DEHYDROCURDIONE,Dehydrocurdione,10421549.0,no_close_match,Artemisinin,68827,0.148
+DESERPIDINE,Deserpidine,8550.0,structural_analog,Reserpine,5770,0.844
+DOPA,Levodopa,6047.0,identical_to_known_drug,Levodopa,6047,1.0
+ELLAGIC-ACID,Ellagic Acid,5281855.0,no_close_match,Warfarin,54678486,0.224
+EMODIN,Emodin,3220.0,no_close_match,Acetaminophen,1983,0.179
+EPHEDRINE,Ephedrine,9294.0,identical_to_known_drug,Ephedrine,9294,1.0
+ETHYL-CINNAMATE,Ethyl Cinnamate,637758.0,no_close_match,Curcumin,969516,0.318
+EUGENOL,Eugenol,3314.0,structural_analog,Curcumin,969516,0.439
+FERULIC-ACID,Ferulic Acid,445858.0,structural_analog,Curcumin,969516,0.743
+FUROSIN,Furosin,10416810.0,no_close_match,Scopolamine,3000322,0.151
+GABA,Gamma-Aminobutyric Acid,119.0,no_close_match,Levodopa,6047,0.167
+GALANGIN,Galangin,5281616.0,no_close_match,Warfarin,54678486,0.25
+GALLIC-ACID,Gallic Acid,370.0,no_close_match,Levodopa,6047,0.257
+GAMMA-TOCOPHEROL,(+)-gamma-Tocopherol,92729.0,no_close_match,Morphine,5288826,0.154
+GENISTEIN,Genistein,5280961.0,no_close_match,Acetaminophen,1983,0.209
+GERANIIN,Geraniin,3001497.0,no_close_match,Cocaine,446220,0.141
+GERANIOL,Geraniol,637566.0,no_close_match,Capsaicin,1548943,0.103
+GLUCOSE,D-Glucose,5793.0,no_close_match,Scopolamine,3000322,0.115
+HISTIDINE,L-Histidine,6274.0,no_close_match,Levodopa,6047,0.375
+HYOSCYAMINE,"Benzeneacetic acid, alpha-(hydroxymethyl)-, (3-endo)-8-methyl-8-azabicyclo(3.2.1)oct-3-yl ester, (alphaS)-",154417.0,identical_to_known_drug,Hyoscyamine,154417,1.0
+HYPOPHYLLANTHIN,Hypophyllanthin,182140.0,no_close_match,Podophyllotoxin,10607,0.243
+IRON,Iron,23925.0,no_close_match,,,0.0
+ISOFURANOGERMACRENE,Isogermafurene,572766.0,no_close_match,Quinine,3034034,0.139
+ISOMITRAFOLINE,Isomitrafoline,163074631.0,structural_analog,Mitragynine,3034396,0.47
+ISOMITRAPHYLLINE,Isomitraphylline,11726520.0,no_close_match,Strychnine,441071,0.247
+ISOQUERCITRIN,Isoquercitrin,5484006.0,no_close_match,Levodopa,6047,0.186
+ISOSPECIOFOLINE,Isospeciofoline,101289836.0,structural_analog,Mitragynine,3034396,0.47
+ISOVITEXIN,Isovitexin,162350.0,no_close_match,Warfarin,54678486,0.178
+KAEMPFEROL,Kaempferol,5280863.0,no_close_match,Acetaminophen,1983,0.209
+LAURIC-ACID,Lauric Acid,3893.0,no_close_match,Ibuprofen,3672,0.167
+LIMONENE,1-Methyl-4-Prop-1-En-2-Ylcyclohexene,22311.0,no_close_match,Colchicine,6167,0.143
+LINALOOL,Linalool,6549.0,no_close_match,Curcumin,969516,0.104
+LINOLEIC-ACID,Linoleic Acid,5280450.0,no_close_match,Capsaicin,1548943,0.246
+LOGANIN,(-)-Loganin,87691.0,no_close_match,Scopolamine,3000322,0.197
+LUPEOL,Lupeol,259846.0,no_close_match,Digitoxin,441207,0.155
+LUTEOLIN,Luteolin,5280445.0,no_close_match,Levodopa,6047,0.224
+MAGNESIUM,Magnesium,5462224.0,no_close_match,Artemisinin,68827,0.026
+MANGANESE,Manganese,23930.0,no_close_match,Simvastatin,54454,0.018
+MENTHOL,Menthol,1254.0,no_close_match,Atropine,174174,0.135
+MENTHONE,Menthone,26447.0,no_close_match,Nicotine,89594,0.182
+METHIONINE,L-Methionine,6137.0,no_close_match,Levodopa,6047,0.297
+METHYL-10-OXO-11-OCTADECYNOATE,Methyl 10-oxo-11-octadecynoate,85524814.0,no_close_match,Capsaicin,1548943,0.169
+MIMOSINE,Mimosine,440473.0,no_close_match,Levodopa,6047,0.381
+MITRAGYNINE,(-)-Mitragynine,3034396.0,identical_to_known_drug,Mitragynine,3034396,1.0
+MITRAPHYLLINE,Mitraphylline,94160.0,no_close_match,Strychnine,441071,0.247
+MYRCENE,Myrcene,31253.0,no_close_match,Capsaicin,1548943,0.102
+MYRISTIC-ACID,Myristic Acid,11005.0,no_close_match,Ibuprofen,3672,0.167
+N-PENTADECANE,Pentadecane,12391.0,no_close_match,Chloroquine,2719,0.083
+NEOANDROGRAPHOLIDE,Neoandrographolide,9848024.0,no_close_match,Digoxin,2724385,0.165
+NIACIN,Nicotinic Acid,938.0,no_close_match,Nicotine,89594,0.275
+NICOTINE,Nicotine,89594.0,identical_to_known_drug,Nicotine,89594,1.0
+NITROGEN,Nitrogen,947.0,no_close_match,,,0.0
+OLEANOLIC-ACID,Oleanolic Acid,10494.0,no_close_match,Digitoxin,441207,0.182
+OLEIC-ACID,Oleic Acid,445639.0,no_close_match,Capsaicin,1548943,0.236
+P-COUMARIC-ACID,P-Coumaric Acid,637542.0,no_close_match,Curcumin,969516,0.333
+P-HYDROXYCINNAMOYLFERULOYLMETHANE,Demethoxycurcumin,5469424.0,structural_analog,Curcumin,969516,0.886
+P-METHOXYSTYRENE,4-Methoxystyrene,12507.0,no_close_match,Curcumin,969516,0.25
+PALMITIC-ACID,Palmitic Acid,985.0,no_close_match,Ibuprofen,3672,0.167
+PANICULIDE-A,Paniculide A,11821485.0,no_close_match,Artemisinin,68827,0.162
+PANICULIDE-C,Paniculide C,101289824.0,no_close_match,Artemisinin,68827,0.143
+PAPAVERINE,Papaverine,4680.0,identical_to_known_drug,Papaverine,4680,1.0
+PHENOL,Phenol,996.0,no_close_match,Acetaminophen,1983,0.292
+PHOSPHORUS,Phosphorus,5462309.0,no_close_match,Ephedrine,9294,0.045
+PHYLLANTHIN,Phyllanthin,358901.0,structural_analog,Papaverine,4680,0.419
+POTASSIUM,Potassium,5462222.0,no_close_match,Reserpine,5770,0.014
+PROCURCUMENOL,Procurcumenol,189061.0,no_close_match,Digoxin,2724385,0.184
+PROTOCATECHUIC-ACID,Protocatechuic Acid,72.0,no_close_match,Levodopa,6047,0.394
+QUERCETIN,Quercetin,5280343.0,no_close_match,Levodopa,6047,0.22
+QUERCITRIN,Quercitrin,5280459.0,no_close_match,Curcumin,969516,0.171
+RAUBASINE,Ajmalicine,441975.0,no_close_match,Reserpine,5770,0.372
+REPANDUSINIC ACID B,Repandusinic acid B,16131091.0,no_close_match,Podophyllotoxin,10607,0.138
+RESCINNAMINE,Rescinnamine,5280954.0,structural_analog,Reserpine,5770,0.805
+RESERPILINE,Reserpiline,67228.0,structural_analog,Reserpine,5770,0.409
+RESERPINE,Reserpine,5770.0,identical_to_known_drug,Reserpine,5770,1.0
+RESVERATROL,Resveratrol,445154.0,no_close_match,Curcumin,969516,0.282
+RHYNCHOPHYLLINE,Rhynchophylline,5281408.0,structural_analog,Mitragynine,3034396,0.463
+RIBOFLAVIN,Riboflavin,493570.0,no_close_match,Camptothecin,24360,0.179
+ROSMARINIC-ACID,Rosmarinic Acid,5281792.0,structural_analog,Levodopa,6047,0.467
+ROTUNDIFOLINE,Rotundifoline,139055911.0,structural_analog,Mitragynine,3034396,0.47
+RUTIN,Rutin,5280805.0,no_close_match,Levodopa,6047,0.173
+SALICYLIC-ACID,Salicylic Acid,338.0,structural_analog,Aspirin,2244,0.448
+SCOPOLAMINE,Boro-Scopol,3000322.0,identical_to_known_drug,Scopolamine,3000322,1.0
+SCOPOLETIN,Scopoletin,5280460.0,no_close_match,Curcumin,969516,0.326
+SECURININE,Securinine,442872.0,no_close_match,Digitoxin,441207,0.14
+SELENIUM,Selenium,6326970.0,no_close_match,,,0.0
+SEROTONIN,Serotonin,5202.0,no_close_match,Acetaminophen,1983,0.167
+SERPENTINE,Serpentine,73073.0,no_close_match,Cocaine,446220,0.228
+SPECIOCILIATINE,Speciociliatine,15560576.0,identical_to_known_drug,Mitragynine,3034396,1.0
+SPECIOPHYLLINE,Speciophylline,168985.0,no_close_match,Strychnine,441071,0.247
+STEARIC-ACID,Stearic Acid,5281.0,no_close_match,Ibuprofen,3672,0.167
+STIGMASTEROL,Stigmasterol,5280794.0,no_close_match,Digitoxin,441207,0.163
+SUCROSE,Sucrose,5988.0,no_close_match,Scopolamine,3000322,0.123
+SWEROSIDE,(-)-Sweroside,161036.0,no_close_match,Scopolamine,3000322,0.167
+TARAXASTEROL,Taraxasterol,115250.0,no_close_match,Digitoxin,441207,0.175
+TERPINEN-4-OL,Terpinen-4-ol,11230.0,no_close_match,Ephedrine,9294,0.15
+THEBAINE,Thebaine,5324289.0,structural_analog,Codeine,5284371,0.426
+THIAMIN,Thiamine,1130.0,no_close_match,Metronidazole,4173,0.186
+TIGLOIDINE,Tropigline,12444363.0,structural_analog,Atropine,174174,0.435
+TOCOPHEROL,Tocopherols,14986.0,no_close_match,Morphine,5288826,0.154
+TROPINE,"(1S,5R)-8-Methyl-8-Azabicyclo(3.2.1)Octan-3-Ol",449293.0,no_close_match,Atropine,174174,0.31
+TRYPTOPHAN,L-Tryptophan,6305.0,structural_analog,Levodopa,6047,0.405
+TURMERONE,Turmerone,14367555.0,no_close_match,Ibuprofen,3672,0.208
+UMBELLIFERONE,Umbelliferone,5281426.0,no_close_match,Acetaminophen,1983,0.229
+URSOLIC-ACID,(+)-Ursolic Acid,64945.0,no_close_match,Digitoxin,441207,0.178
+VERBASCOSIDE,Verbascoside,5281800.0,no_close_match,Curcumin,969516,0.263
+VITEXIN,Vitexin,5280441.0,no_close_match,Levodopa,6047,0.156
+YOHIMBINE,Yohimbine,8969.0,structural_analog,Reserpine,5770,0.5
+ZINC,Zinc,23994.0,no_close_match,,,0.0
+ZINGIBERENE,(-)-Zingiberene,92776.0,no_close_match,Ibuprofen,3672,0.157

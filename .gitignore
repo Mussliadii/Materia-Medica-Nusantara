@@ -1,0 +1,30 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Raw downloads (large, regenerable by src/pipeline/ scripts)
+data/raw/
+data/processed/images/
+data/processed/knowledge_graph.graphml
+data/processed/knowledge_graph.json
+data/processed/duke_traditional_uses.csv
+data/processed/duke_plant_chemicals.csv
+data/processed/duke_chemical_activities.csv
+data/processed/prosea_parsed.csv
+data/processed/plants_seed_candidates.csv
+
+# pyvis runtime-generated static assets (recreated on every graph render)
+lib/
+
+# Local secrets / logs
+.streamlit/secrets.toml
+streamlit_run.log
+
+# Internal working docs -- not part of the public submission
+Info.md
+docs/CLAUDE.md
+docs/CHANGELOG_REDESIGN.md
+docs/SKRIP_PITCH.md
+docs/PITCH_SCRIPT_EN.md

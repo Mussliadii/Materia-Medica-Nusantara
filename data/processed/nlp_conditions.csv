@@ -1,0 +1,2314 @@
+GENUS,SPECIES,category,matched_terms,n_mentions
+Cannabis,sativa,Nervous system,anticonvulsant; epilepsy; narcotic; sedative; soporific; spasm; tetanus,13
+Cannabis,sativa,General tonic and vitality,tonic,1
+Cannabis,sativa,Women's health,emmenagogue; parturition; uterine,4
+Cannabis,sativa,Digestive,anthelmintic; demulcent; dyspepsia; laxative; nausea; vomiting,7
+Cannabis,sativa,Urinary and kidney,diuretic,1
+Cannabis,sativa,Pain and inflammation,analgesic; anodyne; migraine; neuralgia; pains; rheumatism,11
+Cannabis,sativa,Skin and wounds,ulcers; wounds,3
+Cannabis,sativa,Fever and infection,febrifuge,1
+Cannabis,sativa,Cancer and tumour,cancer,2
+Arctium,lappa,General tonic and vitality,stimulant,1
+Arctium,lappa,Digestive,flatulence; laxative; stomachic,3
+Arctium,lappa,Pain and inflammation,anodyne; rheumatism,3
+Arctium,lappa,Urinary and kidney,diuretic,1
+Arctium,lappa,Respiratory,catarrh; pneumonia,2
+Arctium,lappa,Fever and infection,fever,1
+Arctium,lappa,Cancer and tumour,cancer,1
+Arctium,lappa,Skin and wounds,burns; dermatitis; ulcers,3
+Acorus,calamus,General tonic and vitality,aphrodisiac; stimulant; tonic,4
+Acorus,calamus,Digestive,anthelmintic; carminative; diarrhoea; dysentery; dyspepsia; stomachic,13
+Acorus,calamus,Respiratory,asthma; expectorant,3
+Acorus,calamus,Nervous system,antispasmodic; sedative,3
+Acorus,calamus,Pain and inflammation,analgesic; inflammation; rheumatism; toothache,6
+Acorus,calamus,Women's health,childbirth,1
+Acorus,calamus,Parasites and bites,antidote; poison,2
+Acorus,calamus,Cardiovascular and metabolic,circulation,1
+Acorus,calamus,Fever and infection,antibacterial; antifungal,2
+Taraxacum,officinale,General tonic and vitality,tonic,2
+Taraxacum,officinale,Urinary and kidney,bladder; diuretic; kidney; urinary,8
+Taraxacum,officinale,Digestive,laxative,3
+Taraxacum,officinale,Liver,jaundice; liver,4
+Taraxacum,officinale,Skin and wounds,boils; eczema; poultice; wounds,4
+Taraxacum,officinale,Cardiovascular and metabolic,blood pressure,1
+Plantago,major,Digestive,carminative; demulcent; diarrhoea; dysentery; laxative,6
+Plantago,major,General tonic and vitality,tonic,1
+Plantago,major,Urinary and kidney,diuretic; gonorrhoea,4
+Plantago,major,Cardiovascular and metabolic,diabetes,1
+Plantago,major,Skin and wounds,burns; ulcers; wounds,4
+Plantago,major,Respiratory,asthma; cough,2
+Plantago,major,Fever and infection,malaria,1
+Plantago,major,Eye and ENT,earache,1
+Plantago,major,Pain and inflammation,inflammation,1
+Centella,asiatica,General tonic and vitality,tonic,2
+Centella,asiatica,Skin and wounds,burns; ulcers; wounds,5
+Centella,asiatica,Nervous system,epilepsy,1
+Centella,asiatica,Digestive,dysentery,1
+Curcuma,longa,Digestive,carminative; diarrhoea; dyspeptic; stomachic,5
+Curcuma,longa,General tonic and vitality,stimulant; tonic,2
+Curcuma,longa,Liver,jaundice; liver; liver trouble,3
+Curcuma,longa,Skin and wounds,bruises; dermatitis; itch; smallpox; wounds,5
+Curcuma,longa,Parasites and bites,fungicidal; insect bites; insecticidal; nematicidal,4
+Curcuma,longa,Eye and ENT,eye disease; ophthalmia,2
+Curcuma,longa,Women's health,irregular menstruation; menstruation,2
+Curcuma,longa,Cardiovascular and metabolic,cholesterol; circulation,2
+Curcuma,longa,Urinary and kidney,urinary,1
+Curcuma,longa,Pain and inflammation,inflammation; pains; rheumatism,5
+Curcuma,longa,Respiratory,catarrh; cold; colds; cough; tuberculosis,5
+Curcuma,longa,Cancer and tumour,cancer,1
+Morus,alba,Urinary and kidney,diuretic,1
+Morus,alba,Respiratory,asthma; bronchitis; cough; expectorant,4
+Morus,alba,Pain and inflammation,oedema,1
+Morus,alba,Cardiovascular and metabolic,blood pressure,1
+Morinda,citrifolia,Cardiovascular and metabolic,diabetes; hypertension,2
+Morinda,citrifolia,Respiratory,asthma; cough; pneumonia,4
+Morinda,citrifolia,Women's health,emmenagogue,2
+Morinda,citrifolia,Skin and wounds,ulcers,1
+Morinda,citrifolia,Pain and inflammation,arthritis; headache,2
+Morinda,citrifolia,Fever and infection,fever,2
+Morinda,citrifolia,Digestive,diarrhoea; dysentery; stomachic,4
+Hibiscus,sabdariffa,Urinary and kidney,diuretic,3
+Hibiscus,sabdariffa,Cardiovascular and metabolic,cholesterol,1
+Hibiscus,sabdariffa,Digestive,laxative,1
+Hibiscus,sabdariffa,Skin and wounds,ulcers,1
+Hibiscus,sabdariffa,General tonic and vitality,tonic,1
+Catharanthus,roseus,Fever and infection,antiseptic; malaria,2
+Catharanthus,roseus,Digestive,diarrhoea; dysentery; dyspepsia; indigestion; purgative,5
+Catharanthus,roseus,Cardiovascular and metabolic,diabetes,1
+Catharanthus,roseus,Cancer and tumour,cancer,7
+Catharanthus,roseus,Skin and wounds,wounds,1
+Catharanthus,roseus,Pain and inflammation,toothache,2
+Catharanthus,roseus,Urinary and kidney,diuretic,1
+Jatropha,curcas,Digestive,anthelmintic; diarrhoea,2
+Jatropha,curcas,Pain and inflammation,rheumatism; toothache,3
+Jatropha,curcas,Skin and wounds,boils; cuts; eczema; poultice; scabies; ulcers; wounds,9
+Jatropha,curcas,Respiratory,cough,1
+Aloe,vera,Digestive,anthelmintic; dysentery; dyspepsia; laxative; purgative; stomachic,9
+Aloe,vera,Skin and wounds,burns; cuts; poultice; sore; ulcers; wounds,7
+Aloe,vera,Respiratory,asthma,1
+Aloe,vera,Urinary and kidney,kidney,1
+Aloe,vera,Women's health,emmenagogue,2
+Aloe,vera,Fever and infection,fever,1
+Solanum,nigrum,Skin and wounds,burns; cuts; ulcers; wounds,4
+Solanum,nigrum,Pain and inflammation,inflammation; pains,2
+Solanum,nigrum,Respiratory,expectorant,1
+Solanum,nigrum,Digestive,diarrhoea; laxative,2
+Solanum,nigrum,Nervous system,sedative,1
+Solanum,nigrum,Cardiovascular and metabolic,diabetes,1
+Solanum,nigrum,Women's health,menstrual,1
+Solanum,nigrum,Cancer and tumour,cancerous,1
+Solanum,nigrum,Urinary and kidney,bladder; diuretic; gonorrhoea,4
+Solanum,nigrum,Liver,liver,1
+Lantana,camara,Skin and wounds,cuts; ulcers,2
+Lantana,camara,Pain and inflammation,headache; inflammation; rheumatism; toothache,4
+Lantana,camara,Digestive,constipation,1
+Lantana,camara,Fever and infection,febrifuge,1
+Lantana,camara,General tonic and vitality,stimulant,1
+Lantana,camara,Respiratory,bronchitis; catarrh,2
+Lantana,camara,Urinary and kidney,gonorrhoea,1
+Artemisia,vulgaris,Nervous system,sedative,1
+Artemisia,vulgaris,Respiratory,asthma; expectorant,5
+Artemisia,vulgaris,Digestive,anthelmintic; diarrhoea; stomachic,6
+Artemisia,vulgaris,Women's health,emmenagogue,3
+Artemisia,vulgaris,Urinary and kidney,diuretic,1
+Artemisia,vulgaris,Skin and wounds,ulcers,1
+Artemisia,vulgaris,Pain and inflammation,rheumatism,1
+Abrus,precatorius,Respiratory,asthma,1
+Phyllanthus,emblica,Digestive,diarrhoea; dysentery; dyspepsia; laxative,8
+Phyllanthus,emblica,Pain and inflammation,headache; inflammation,2
+Phyllanthus,emblica,Fever and infection,febrifuge; fever,3
+Phyllanthus,emblica,Urinary and kidney,diuretic,1
+Phyllanthus,emblica,Liver,jaundice,1
+Phyllanthus,emblica,Cardiovascular and metabolic,diabetes,1
+Phyllanthus,emblica,Respiratory,asthma; bronchitis; cough,4
+Hyptis,suaveolens,Skin and wounds,bruises; cuts; eczema; wounds,5
+Hyptis,suaveolens,Pain and inflammation,rheumatism,3
+Hyptis,suaveolens,Nervous system,antispasmodic,1
+Hyptis,suaveolens,Women's health,emmenagogue,1
+Hyptis,suaveolens,Digestive,stomachic,1
+Hyptis,suaveolens,Fever and infection,fever,1
+Hyptis,suaveolens,Respiratory,catarrh; colds,2
+Euphorbia,hirta,Eye and ENT,conjunctivitis,1
+Euphorbia,hirta,Skin and wounds,cuts,1
+Euphorbia,hirta,Respiratory,asthma; catarrh; expectorant,4
+Euphorbia,hirta,Fever and infection,fever,1
+Euphorbia,hirta,Pain and inflammation,headache; toothache,2
+Euphorbia,hirta,Digestive,dysentery; intestinal; laxative,3
+Euphorbia,hirta,Urinary and kidney,urinary,1
+Euphorbia,hirta,Nervous system,narcotic; sedative,2
+Mucuna,pruriens,Pain and inflammation,analgesic; headache,2
+Mucuna,pruriens,General tonic and vitality,aphrodisiac,1
+Mucuna,pruriens,Skin and wounds,wounds,1
+Colocasia,esculenta,Respiratory,pneumonia,1
+Colocasia,esculenta,Digestive,diarrhoea; dysentery; laxative,4
+Colocasia,esculenta,Skin and wounds,boils; burns; poultice; sore; wounds,5
+Colocasia,esculenta,Pain and inflammation,rheumatism,1
+Colocasia,esculenta,Parasites and bites,antidote,1
+Colocasia,esculenta,Eye and ENT,earache,1
+Colocasia,esculenta,General tonic and vitality,stimulant,1
+Colocasia,esculenta,Women's health,childbirth,1
+Lepidium,sativum,Digestive,constipation; diarrhoea; dysentery; intestinal; laxative,6
+Lepidium,sativum,Skin and wounds,bruises; sore,2
+Lepidium,sativum,Women's health,emmenagogue,1
+Lepidium,sativum,General tonic and vitality,aphrodisiac; stimulant; tonic,3
+Lepidium,sativum,Urinary and kidney,diuretic,3
+Lepidium,sativum,Respiratory,asthma; cough,5
+Lepidium,sativum,Liver,liver,1
+Lepidium,sativum,Pain and inflammation,headache,1
+Argemone,mexicana,Pain and inflammation,rheumatism; toothache,2
+Argemone,mexicana,Women's health,abortifacient; emmenagogue; parturition,3
+Argemone,mexicana,Liver,jaundice; liver,3
+Argemone,mexicana,Respiratory,asthma; cough; expectorant; whooping cough,8
+Argemone,mexicana,Fever and infection,fever,2
+Argemone,mexicana,Nervous system,antispasmodic; epilepsy; insomnia; narcotic; sedative,5
+Argemone,mexicana,Cancer and tumour,cancer,1
+Argemone,mexicana,Parasites and bites,antidote,1
+Argemone,mexicana,Urinary and kidney,diuretic,2
+Argemone,mexicana,Skin and wounds,ulcers,2
+Argemone,mexicana,Eye and ENT,conjunctivitis,1
+Argemone,mexicana,Digestive,constipation; demulcent; diarrhoea; laxative; nausea; vomiting,8
+Symphytum,officinale,Skin and wounds,boils; bruises; burns; cuts; itch; sore; ulcer; ulcers; wound; wounds,15
+Symphytum,officinale,Parasites and bites,insect bites,1
+Symphytum,officinale,Respiratory,bronchitis; expectorant; pneumonia,3
+Symphytum,officinale,Digestive,demulcent; diarrhoea; dysentery; gastric; intestinal,5
+Symphytum,officinale,Pain and inflammation,arthritis; rheumatism,5
+Symphytum,officinale,Liver,liver,1
+Symphytum,officinale,General tonic and vitality,tonic,1
+Symphytum,officinale,Nervous system,sedative,1
+Bidens,pilosa,Pain and inflammation,headache; pains; toothache,6
+Bidens,pilosa,Fever and infection,fever,1
+Bidens,pilosa,Cardiovascular and metabolic,diabetes,1
+Bidens,pilosa,Digestive,constipation; diarrhoea; intestinal; worms,4
+Bidens,pilosa,Skin and wounds,boils; burns; ulcers; wounds,4
+Dodonaea,viscosa,Fever and infection,antiviral; febrifuge; fever,4
+Dodonaea,viscosa,Skin and wounds,boils; burns; eczema; poultice; sore; ulcers; wounds,11
+Dodonaea,viscosa,Pain and inflammation,analgesic; rheumatism; toothache,4
+Dodonaea,viscosa,Digestive,constipation; diarrhoea; dysentery; flatulence; intestinal,5
+Dodonaea,viscosa,Women's health,parturition,1
+Dodonaea,viscosa,Urinary and kidney,venereal,1
+Alpinia,galanga,Digestive,carminative; diarrhoea; intestinal; stomachic; vomiting,5
+Alpinia,galanga,Women's health,childbirth,1
+Alpinia,galanga,Respiratory,expectorant,1
+Alpinia,galanga,General tonic and vitality,aphrodisiac; stimulant,3
+Cissampelos,pareira,Urinary and kidney,diuretic; urinary,3
+Cissampelos,pareira,Digestive,diarrhoea; dysentery; intestinal; purgative; stomachic,5
+Cissampelos,pareira,Nervous system,antispasmodic,2
+Cissampelos,pareira,Women's health,emmenagogue; menstruation; uterine,3
+Cissampelos,pareira,Pain and inflammation,pains; rheumatism,2
+Cissampelos,pareira,Fever and infection,febrifuge,1
+Cissampelos,pareira,Respiratory,cough,1
+Cissampelos,pareira,Liver,jaundice,1
+Cissampelos,pareira,Skin and wounds,scabies; ulcers; wounds,3
+Cissampelos,pareira,Parasites and bites,poison,1
+Rheum,palmatum,Digestive,constipation; diarrhoea; dysentery; intestinal; laxative; purgative,11
+Rheum,palmatum,General tonic and vitality,tonic,2
+Rheum,palmatum,Skin and wounds,burns; sore,2
+Rheum,palmatum,Liver,jaundice; liver,2
+Rheum,palmatum,Women's health,childbirth,1
+Rheum,palmatum,Pain and inflammation,rheumatism,1
+Belamcanda,chinensis,Respiratory,asthma; cough; expectorant,3
+Belamcanda,chinensis,Liver,liver,1
+Belamcanda,chinensis,Digestive,carminative; purgative,2
+Belamcanda,chinensis,Urinary and kidney,diuretic; gonorrhoea,2
+Belamcanda,chinensis,Women's health,childbirth,2
+Belamcanda,chinensis,Skin and wounds,poultice,1
+Viola,odorata,Pain and inflammation,rheumatism,1
+Viola,odorata,Skin and wounds,cuts; ulcers,2
+Viola,odorata,Cancer and tumour,cancer,1
+Viola,odorata,Urinary and kidney,diuretic,1
+Viola,odorata,Respiratory,asthma; colds; cough; expectorant,4
+Trachyspermum,ammi,Digestive,carminative; diarrhoea; flatulence; intestinal,5
+Trachyspermum,ammi,Nervous system,antispasmodic,1
+Trachyspermum,ammi,General tonic and vitality,stimulant,1
+Trachyspermum,ammi,Liver,liver,1
+Trachyspermum,ammi,Skin and wounds,sore,1
+Trachyspermum,ammi,Respiratory,asthma; cough,2
+Trachyspermum,ammi,Pain and inflammation,rheumatism,1
+Trachyspermum,ammi,Fever and infection,antiseptic,1
+Trachyspermum,ammi,Women's health,abortifacient; childbirth; menstruation,3
+Thevetia,peruviana,Digestive,purgative,1
+Thevetia,peruviana,Pain and inflammation,rheumatism,1
+Thevetia,peruviana,Women's health,abortifacient,1
+Thevetia,peruviana,Parasites and bites,poison,2
+Datura,metel,Respiratory,asthma,2
+Ageratum,conyzoides,Skin and wounds,wounds,1
+Ageratum,conyzoides,Digestive,diarrhoea,1
+Ageratum,conyzoides,Fever and infection,febrifuge,1
+Rauvolfia,serpentina,Cardiovascular and metabolic,blood pressure,1
+Rauvolfia,serpentina,Digestive,diarrhoea; dysentery,2
+Rauvolfia,serpentina,Nervous system,epilepsy,1
+Rauvolfia,serpentina,Women's health,uterine,1
+Rauvolfia,serpentina,Fever and infection,fever,1
+Rauvolfia,serpentina,Skin and wounds,itch; wounds,2
+Tecoma,stans,Urinary and kidney,diuretic,2
+Tecoma,stans,Digestive,intestinal,1
+Tecoma,stans,General tonic and vitality,tonic,1
+Mimosa,pudica,Nervous system,insomnia; sedative,4
+Mimosa,pudica,Skin and wounds,dermatitis; poultice; sore; ulcers; wounds,5
+Mimosa,pudica,Respiratory,asthma,1
+Mimosa,pudica,Digestive,diarrhoea; dysentery; intestinal,4
+Mimosa,pudica,Urinary and kidney,diuretic; urinary,3
+Mimosa,pudica,Pain and inflammation,arthritis; inflammation,2
+Mimosa,pudica,General tonic and vitality,aphrodisiac,1
+Croton,tiglium,Digestive,purgative,1
+Croton,tiglium,Parasites and bites,poison,2
+Croton,tiglium,Skin and wounds,poultice,1
+Caesalpinia,pulcherrima,Digestive,constipation; purgative,2
+Caesalpinia,pulcherrima,Women's health,abortifacient; emmenagogue,4
+Caesalpinia,pulcherrima,Respiratory,colds,1
+Quisqualis,indica,Digestive,anthelmintic; diarrhoea; nausea; vomiting,6
+Quisqualis,indica,Skin and wounds,boils; ulcers,3
+Quisqualis,indica,Fever and infection,fever,2
+Quisqualis,indica,Pain and inflammation,rheumatism; toothache,2
+Hibiscus,rosa-sinensis,Skin and wounds,boils; ulcers,2
+Hibiscus,rosa-sinensis,Fever and infection,antiseptic,1
+Hibiscus,rosa-sinensis,Digestive,diarrhoea; purgative,2
+Hibiscus,rosa-sinensis,Women's health,abortifacient,1
+Curcuma,zedoaria,General tonic and vitality,stimulant,1
+Curcuma,zedoaria,Digestive,carminative; indigestion; stomachic,3
+Curcuma,zedoaria,Urinary and kidney,diuretic,1
+Curcuma,zedoaria,Women's health,childbirth,1
+Curcuma,zedoaria,Skin and wounds,ulcers; wounds,2
+Curcuma,zedoaria,Respiratory,colds,1
+Gloriosa,superba,Parasites and bites,poison,1
+Gloriosa,superba,General tonic and vitality,tonic,1
+Gloriosa,superba,Pain and inflammation,arthritis,1
+Gloriosa,superba,Digestive,purgative,1
+Gloriosa,superba,Skin and wounds,cut,1
+Sida,rhombifolia,Skin and wounds,itch,1
+Sida,rhombifolia,Pain and inflammation,migraine; pains,3
+Sida,rhombifolia,Respiratory,tuberculosis,1
+Sida,rhombifolia,Digestive,dysentery,1
+Amaranthus,spinosus,Urinary and kidney,diuretic; gonorrhoea,2
+Amaranthus,spinosus,Women's health,emmenagogue,1
+Amaranthus,spinosus,Skin and wounds,boils; burns; eczema; wounds,4
+Amaranthus,spinosus,Respiratory,bronchitis; expectorant,2
+Amaranthus,spinosus,Fever and infection,febrifuge,1
+Amaranthus,spinosus,Parasites and bites,antidote; poison,2
+Stachytarpheta,jamaicensis,General tonic and vitality,stimulant; tonic,2
+Stachytarpheta,jamaicensis,Respiratory,expectorant,1
+Stachytarpheta,jamaicensis,Digestive,dysentery; intestinal; purgative; worms,4
+Stachytarpheta,jamaicensis,Women's health,abortifacient; emmenagogue,2
+Stachytarpheta,jamaicensis,Pain and inflammation,headache; pains,2
+Stachytarpheta,jamaicensis,Eye and ENT,earache; ophthalmia,2
+Stachytarpheta,jamaicensis,Fever and infection,febrifuge; fever; malaria,4
+Stachytarpheta,jamaicensis,Liver,jaundice; liver; liver trouble,3
+Stachytarpheta,jamaicensis,Skin and wounds,ulcers; wounds,2
+Stachytarpheta,jamaicensis,Urinary and kidney,gonorrhoea,1
+Euphorbia,tirucalli,Skin and wounds,poultice,1
+Euphorbia,tirucalli,Parasites and bites,poison,1
+Ipomoea,aquatica,Fever and infection,fever,1
+Ipomoea,aquatica,Digestive,laxative,1
+Ipomoea,aquatica,General tonic and vitality,tonic,1
+Ipomoea,aquatica,Parasites and bites,antidote,1
+Ipomoea,aquatica,Skin and wounds,boils,1
+Vernonia,cinerea,Skin and wounds,poultice; wounds,2
+Vernonia,cinerea,Pain and inflammation,headache,1
+Vernonia,cinerea,Digestive,diarrhoea,1
+Vernonia,cinerea,Respiratory,asthma; bronchitis; cough,3
+Andrographis,paniculata,Parasites and bites,insect bites,1
+Andrographis,paniculata,Cardiovascular and metabolic,diabetes; hypertension,2
+Andrographis,paniculata,Fever and infection,antibacterial; fever,2
+Andrographis,paniculata,General tonic and vitality,tonic,1
+Andrographis,paniculata,Digestive,dysentery; dyspepsia,2
+Andrographis,paniculata,Respiratory,bronchitis,1
+Andrographis,paniculata,Urinary and kidney,diuretic; gonorrhoea,2
+Andrographis,paniculata,Skin and wounds,poultice,1
+Andrographis,paniculata,Pain and inflammation,rheumatism,1
+Andrographis,paniculata,Liver,jaundice; liver,2
+Smilax,china,Urinary and kidney,gonorrhoea; urinary,2
+Smilax,china,Pain and inflammation,rheumatism,2
+Smilax,china,General tonic and vitality,tonic,1
+Smilax,china,Women's health,childbirth,1
+Smilax,china,Respiratory,asthma,1
+Quassia,amara,General tonic and vitality,tonic,1
+Quassia,amara,Fever and infection,febrifuge,1
+Quassia,amara,Digestive,diarrhoea; dysentery; dyspepsia; flatulence; gastric; intestinal; stomachic,7
+Quassia,amara,Liver,hepatic,1
+Quassia,amara,Urinary and kidney,gonorrhoea,1
+Quassia,amara,Cardiovascular and metabolic,diabetes,1
+Achyranthes,aspera,Skin and wounds,boils; wounds,3
+Achyranthes,aspera,Pain and inflammation,pains; rheumatism,3
+Achyranthes,aspera,Women's health,abortifacient; menstruation,3
+Achyranthes,aspera,Digestive,dysentery,1
+Achyranthes,aspera,Urinary and kidney,diuretic,1
+Kaempferia,galanga,Cardiovascular and metabolic,blood pressure,1
+Kaempferia,galanga,Skin and wounds,sore; ulcers; wounds,3
+Kaempferia,galanga,Respiratory,asthma; cold,3
+Kaempferia,galanga,Pain and inflammation,headache; rheumatism,2
+Kaempferia,galanga,Parasites and bites,antidote,1
+Kaempferia,galanga,Digestive,dyspepsia,1
+Guazuma,ulmifolia,Fever and infection,malaria,1
+Guazuma,ulmifolia,Digestive,diarrhoea; dysentery,3
+Guazuma,ulmifolia,Women's health,uterine,1
+Guazuma,ulmifolia,General tonic and vitality,stimulant,1
+Guazuma,ulmifolia,Liver,liver,1
+Guazuma,ulmifolia,Urinary and kidney,kidney,1
+Guazuma,ulmifolia,Respiratory,asthma; bronchitis; cold; pneumonia,4
+Lophatherum,gracile,General tonic and vitality,tonic,1
+Lophatherum,gracile,Urinary and kidney,diuretic; urinary,3
+Lophatherum,gracile,Fever and infection,febrifuge,1
+Lophatherum,gracile,Respiratory,colds,1
+Lophatherum,gracile,Skin and wounds,sore,1
+Lophatherum,gracile,Women's health,childbirth,1
+Anamirta,cocculus,Digestive,dyspepsia,1
+Anamirta,cocculus,Women's health,menstrual; menstruation,2
+Anamirta,cocculus,Skin and wounds,poultice; scabies; ulcers,3
+Anamirta,cocculus,Pain and inflammation,headache,1
+Anamirta,cocculus,Parasites and bites,antidote; poison,5
+Anamirta,cocculus,General tonic and vitality,tonic,1
+Anamirta,cocculus,Nervous system,epilepsy,1
+Phyllanthus,amarus,Urinary and kidney,bladder; diuretic; gonorrhoea; kidney; urinary; venereal,7
+Phyllanthus,amarus,Liver,jaundice; liver; liver trouble,3
+Phyllanthus,amarus,Respiratory,expectorant,1
+Phyllanthus,amarus,Fever and infection,antiseptic; febrifuge; malaria,3
+Phyllanthus,amarus,Women's health,emmenagogue,1
+Phyllanthus,amarus,General tonic and vitality,tonic,1
+Phyllanthus,amarus,Pain and inflammation,headache; migraine,2
+Phyllanthus,amarus,Digestive,diarrhoea; dysentery; dyspepsia; intestinal; worms,5
+Phyllanthus,amarus,Cardiovascular and metabolic,diabetes,2
+Phyllanthus,amarus,Skin and wounds,poultice; ulcers,2
+Phyllanthus,amarus,Eye and ENT,earache,1
+Physalis,angulata,Digestive,constipation; intestinal,2
+Physalis,angulata,Skin and wounds,boils; cuts,2
+Physalis,angulata,Women's health,abortifacient,1
+Justicia,gendarussa,Respiratory,asthma; cough,4
+Justicia,gendarussa,Pain and inflammation,arthritis; headache; inflammation; oedema; pains; rheumatism,10
+Justicia,gendarussa,Women's health,childbirth,1
+Justicia,gendarussa,Urinary and kidney,diuretic; gonorrhoea,2
+Justicia,gendarussa,Fever and infection,febrifuge; fever; malaria,4
+Justicia,gendarussa,Skin and wounds,eczema; poultice; wounds,4
+Justicia,gendarussa,Digestive,diarrhoea,2
+Justicia,gendarussa,Liver,jaundice,1
+Justicia,gendarussa,Eye and ENT,earache,1
+Curcuma,xanthorrhiza,Liver,jaundice; liver,2
+Curcuma,xanthorrhiza,Fever and infection,fever,1
+Curcuma,xanthorrhiza,Digestive,constipation; diarrhoea; dysentery,3
+Curcuma,xanthorrhiza,Women's health,uterine,1
+Curcuma,xanthorrhiza,Pain and inflammation,inflammation,2
+Curcuma,xanthorrhiza,Respiratory,cold,1
+Curcuma,xanthorrhiza,Skin and wounds,eczema; smallpox; wounds,3
+Mitragyna,speciosa,Skin and wounds,poultice; wounds,2
+Mitragyna,speciosa,Digestive,diarrhoea; dysentery; vomiting; worms,5
+Mitragyna,speciosa,Cardiovascular and metabolic,diabetes; hypertension,2
+Mitragyna,speciosa,Pain and inflammation,analgesic,1
+Mitragyna,speciosa,General tonic and vitality,stimulant,2
+Acalypha,indica,Digestive,anthelmintic; purgative,2
+Acalypha,indica,Respiratory,asthma; bronchitis; expectorant,3
+Scoparia,dulcis,Pain and inflammation,analgesic; anodyne; headache,3
+Scoparia,dulcis,Urinary and kidney,diuretic; gonorrhoea; kidney; urinary,6
+Scoparia,dulcis,Digestive,diarrhoea; dysentery; gastric; intestinal; worms,6
+Scoparia,dulcis,Respiratory,bronchitis; cold; cough,5
+Scoparia,dulcis,Cardiovascular and metabolic,diabetes; hypertension,3
+Scoparia,dulcis,Parasites and bites,antidote; insect bites,2
+Scoparia,dulcis,Skin and wounds,bruises; eczema; ulcers,5
+Scoparia,dulcis,Fever and infection,fever,1
+Scoparia,dulcis,Liver,jaundice,1
+Stephania,japonica,Digestive,dysentery,1
+Stephania,japonica,Fever and infection,fever,1
+Stephania,japonica,Urinary and kidney,urinary,1
+Stephania,japonica,Pain and inflammation,inflammation,1
+Stephania,japonica,Skin and wounds,itch,1
+Alstonia,scholaris,Fever and infection,febrifuge,3
+Alstonia,scholaris,General tonic and vitality,tonic,2
+Alstonia,scholaris,Women's health,contraceptive; emmenagogue; irregular menstruation; menstruation,4
+Alstonia,scholaris,Skin and wounds,poultice; ulcers,2
+Alstonia,scholaris,Pain and inflammation,arthritis; pains,3
+Alstonia,scholaris,Respiratory,asthma; bronchitis; colds; pneumonia,4
+Alstonia,scholaris,Digestive,diarrhoea; dysentery,4
+Alstonia,scholaris,Parasites and bites,antidote; poison,2
+Alstonia,scholaris,Cancer and tumour,cancer,1
+Alstonia,scholaris,Cardiovascular and metabolic,hypertension,1
+Phyllanthus,acidus,Digestive,laxative; purgative,2
+Phyllanthus,acidus,Respiratory,asthma; catarrh; cold; cough,4
+Phyllanthus,acidus,Pain and inflammation,headache,1
+Phyllanthus,acidus,Liver,liver,1
+Phyllanthus,acidus,General tonic and vitality,tonic,1
+Impatiens,balsamina,Skin and wounds,burns; wounds,2
+Impatiens,balsamina,Parasites and bites,fungicidal,1
+Impatiens,balsamina,Pain and inflammation,neuralgia; rheumatism,2
+Impatiens,balsamina,General tonic and vitality,tonic,1
+Pongamia,pinnata,Pain and inflammation,rheumatism,1
+Pongamia,pinnata,Parasites and bites,poison,1
+Ajuga,bracteosa,General tonic and vitality,stimulant; tonic,2
+Ajuga,bracteosa,Urinary and kidney,diuretic,1
+Ajuga,bracteosa,Pain and inflammation,rheumatism; toothache,2
+Ajuga,bracteosa,Fever and infection,fever,2
+Ajuga,bracteosa,Skin and wounds,boils; burns,2
+Ajuga,bracteosa,Digestive,dysentery,1
+Ajuga,bracteosa,Cardiovascular and metabolic,blood pressure,1
+Jasminum,sambac,Fever and infection,fever,2
+Jasminum,sambac,Skin and wounds,poultice; wounds,3
+Jasminum,sambac,Urinary and kidney,venereal,1
+Jasminum,sambac,Nervous system,sedative,1
+Jasminum,sambac,Respiratory,asthma; bronchitis; catarrh,3
+Streblus,asper,Women's health,childbirth,1
+Streblus,asper,Skin and wounds,wounds,1
+Streblus,asper,General tonic and vitality,tonic,1
+Streblus,asper,Digestive,carminative; laxative,2
+Streblus,asper,Pain and inflammation,neuralgia; toothache,2
+Aglaia,odorata,Women's health,childbirth,1
+Aglaia,odorata,Fever and infection,fever,2
+Aglaia,odorata,General tonic and vitality,stimulant; tonic,3
+Aglaia,odorata,Urinary and kidney,venereal,1
+Aglaia,odorata,Respiratory,asthma; expectorant,2
+Aglaia,odorata,Liver,jaundice,1
+Erythrina,fusca,Skin and wounds,wounds,1
+Erythrina,fusca,Pain and inflammation,rheumatism; toothache,2
+Commelina,benghalensis,Digestive,demulcent; laxative,2
+Commelina,benghalensis,Skin and wounds,poultice,1
+Anisomeles,indica,Digestive,carminative,1
+Anisomeles,indica,Fever and infection,febrifuge,1
+Anisomeles,indica,General tonic and vitality,tonic,1
+Desmodium,gangeticum,Urinary and kidney,bladder; diuretic; kidney,6
+Desmodium,gangeticum,Digestive,anthelmintic; diarrhoea; dysentery,4
+Desmodium,gangeticum,Nervous system,sedative,1
+Desmodium,gangeticum,Pain and inflammation,headache; oedema; toothache,3
+Desmodium,gangeticum,Skin and wounds,ulcers; wounds,2
+Desmodium,gangeticum,Fever and infection,febrifuge; fever,2
+Desmodium,gangeticum,General tonic and vitality,tonic,1
+Desmodium,gangeticum,Respiratory,expectorant,1
+Desmodium,gangeticum,Parasites and bites,snake bite,1
+Synedrella,nodiflora,Skin and wounds,poultice; sore,2
+Synedrella,nodiflora,Pain and inflammation,rheumatism,1
+Synedrella,nodiflora,Digestive,diarrhoea; laxative,3
+Synedrella,nodiflora,Eye and ENT,earache,1
+Synedrella,nodiflora,Respiratory,cough,1
+Synedrella,nodiflora,Women's health,emmenagogue,1
+Clerodendrum,inerme,Fever and infection,febrifuge,2
+Clerodendrum,inerme,Skin and wounds,poultice,1
+Clerodendrum,inerme,Pain and inflammation,rheumatism,1
+Tetracera,scandens,Skin and wounds,boils; burns; poultice; sore; ulcers,5
+Tetracera,scandens,Respiratory,cough; tuberculosis,2
+Tetracera,scandens,Women's health,childbirth,1
+Tetracera,scandens,Digestive,diarrhoea,1
+Tetracera,scandens,Urinary and kidney,diuretic,1
+Tetracera,scandens,Liver,hepatic,1
+Pueraria,montana,Respiratory,colds,1
+Pueraria,montana,Fever and infection,febrifuge; fever,2
+Pueraria,montana,Digestive,diarrhoea; dysentery; intestinal,3
+Flemingia,strobilifera,Women's health,childbirth; contraceptive,2
+Flemingia,strobilifera,Pain and inflammation,rheumatism,1
+Flemingia,strobilifera,Respiratory,tuberculosis,1
+Flemingia,strobilifera,Digestive,anthelmintic,1
+Flemingia,strobilifera,Nervous system,epilepsy,2
+Argyreia,nervosa,General tonic and vitality,aphrodisiac; stimulant; tonic,4
+Argyreia,nervosa,Urinary and kidney,diuretic,1
+Argyreia,nervosa,Skin and wounds,dermatitis; wounds,3
+Argyreia,nervosa,Pain and inflammation,arthritis; rheumatism,2
+Diospyros,montana,Skin and wounds,ulcers,1
+Diospyros,montana,Urinary and kidney,urinary,1
+Diospyros,montana,Digestive,dysentery; vomiting,2
+Diospyros,montana,Liver,jaundice,1
+Diospyros,montana,Women's health,abortifacient,1
+Allium,sativum,Cardiovascular and metabolic,blood sugar; cholesterol,2
+Allium,sativum,Pain and inflammation,headache; rheumatism; toothache,3
+Allium,sativum,Parasites and bites,insect bites,1
+Allium,sativum,Fever and infection,antiseptic; febrifuge,2
+Allium,sativum,Digestive,anthelmintic; carminative,2
+Allium,sativum,Respiratory,expectorant,1
+Crateva,religiosa,Digestive,laxative,1
+Crateva,religiosa,Fever and infection,febrifuge,1
+Crateva,religiosa,Skin and wounds,poultice,1
+Crateva,religiosa,Pain and inflammation,rheumatism,1
+Crateva,religiosa,Eye and ENT,earache,1
+Ludwigia,adscendens,Skin and wounds,boils; ulcers,2
+Ludwigia,adscendens,Digestive,dysentery,1
+Ludwigia,adscendens,Fever and infection,fever,1
+Ludwigia,adscendens,Respiratory,cough,1
+Ludwigia,adscendens,Eye and ENT,ophthalmia,1
+Ludwigia,adscendens,Women's health,contraceptive,1
+Phyllanthus,reticulatus,Respiratory,asthma,2
+Phyllanthus,reticulatus,Skin and wounds,smallpox; sore; wounds,3
+Phyllanthus,reticulatus,Urinary and kidney,diuretic,1
+Phyllanthus,reticulatus,Digestive,dysentery,1
+Tetracera,indica,Skin and wounds,itch; poultice,2
+Tetracera,indica,Respiratory,cold,1
+Tetracera,indica,Parasites and bites,poison,1
+Derris,trifoliata,General tonic and vitality,stimulant,1
+Derris,trifoliata,Nervous system,antispasmodic,1
+Derris,trifoliata,Pain and inflammation,arthritis; rheumatism,2
+Derris,trifoliata,Fever and infection,fever,1
+Derris,trifoliata,Digestive,carminative; laxative,2
+Derris,trifoliata,Parasites and bites,poison,1
+Oxalis,corniculata,Skin and wounds,burns; itch; poultice; sore; wounds,5
+Oxalis,corniculata,Digestive,anthelmintic; dysentery; intestinal,4
+Oxalis,corniculata,Respiratory,cough,2
+Oxalis,corniculata,Fever and infection,fever,1
+Oxalis,corniculata,Urinary and kidney,diuretic,1
+Oxalis,corniculata,Women's health,emmenagogue,1
+Oxalis,corniculata,Parasites and bites,antidote,2
+Crescentia,cujete,Skin and wounds,burns; poultice; wounds,4
+Crescentia,cujete,Pain and inflammation,headache,2
+Crescentia,cujete,Fever and infection,febrifuge,1
+Crescentia,cujete,Respiratory,colds; cough; expectorant,3
+Crescentia,cujete,Digestive,diarrhoea; dysentery; laxative; purgative; stomachic,5
+Crescentia,cujete,Urinary and kidney,diuretic,1
+Scutellaria,discolor,Respiratory,colds,1
+Scutellaria,discolor,Fever and infection,fever,1
+Scutellaria,discolor,Skin and wounds,sore,1
+Aerva,lanata,Urinary and kidney,bladder; diuretic; gonorrhoea,3
+Aerva,lanata,Respiratory,catarrh,1
+Aerva,lanata,Pain and inflammation,headache,1
+Aerva,lanata,Digestive,demulcent,1
+Acanthus,ilicifolius,Skin and wounds,poultice; sore; wounds,4
+Urena,lobata,Digestive,diarrhoea; dysentery; indigestion,4
+Urena,lobata,Urinary and kidney,bladder; diuretic; gonorrhoea,4
+Urena,lobata,Fever and infection,fever; malaria,3
+Urena,lobata,Skin and wounds,cuts; poultice; sore; wounds,5
+Urena,lobata,Pain and inflammation,headache; inflammation; pains; rheumatism; toothache,6
+Urena,lobata,Women's health,childbirth,1
+Urena,lobata,Respiratory,colds; expectorant,2
+Limnophila,rugosa,Urinary and kidney,gonorrhoea,1
+Limnophila,rugosa,General tonic and vitality,impotence,1
+Mentha,arvensis,Skin and wounds,itch,1
+Mentha,arvensis,Respiratory,colds; cough; expectorant,6
+Mentha,arvensis,Digestive,carminative; diarrhoea; flatulence; indigestion; intestinal; stomachic,10
+Mentha,arvensis,Nervous system,antispasmodic; sedative,3
+Mentha,arvensis,General tonic and vitality,stimulant,1
+Mentha,arvensis,Women's health,emmenagogue,1
+Mentha,arvensis,Fever and infection,fever,1
+Mentha,arvensis,Pain and inflammation,analgesic; headache; neuralgia,4
+Pistia,stratiotes,Skin and wounds,boils,1
+Pistia,stratiotes,Digestive,diarrhoea; dysentery; dyspepsia; laxative; stomachic,5
+Pistia,stratiotes,Urinary and kidney,diuretic; gonorrhoea,3
+Pistia,stratiotes,Respiratory,asthma; cough; expectorant,3
+Pistia,stratiotes,Pain and inflammation,oedema,1
+Imperata,cylindrica,Urinary and kidney,bladder; diuretic; gonorrhoea; kidney,4
+Imperata,cylindrica,Digestive,diarrhoea; dysentery,3
+Imperata,cylindrica,Fever and infection,febrifuge,1
+Imperata,cylindrica,General tonic and vitality,tonic,1
+Imperata,cylindrica,Cardiovascular and metabolic,hypertension,1
+Imperata,cylindrica,Skin and wounds,wounds,1
+Imperata,cylindrica,Nervous system,sedative,1
+Plumbago,zeylanica,Skin and wounds,itch; poultice; scabies,5
+Plumbago,zeylanica,Pain and inflammation,headache; rheumatism,3
+Plumbago,zeylanica,Women's health,abortifacient; childbirth; emmenagogue,4
+Plumbago,zeylanica,General tonic and vitality,tonic,1
+Heliotropium,indicum,Skin and wounds,eczema; poultice; sore; wounds,6
+Heliotropium,indicum,Pain and inflammation,inflammation; rheumatism; swelling,4
+Heliotropium,indicum,Women's health,emmenagogue,1
+Heliotropium,indicum,Digestive,dysentery,1
+Oroxylum,indicum,Digestive,diarrhoea; dysentery; intestinal; laxative,9
+Oroxylum,indicum,General tonic and vitality,tonic,2
+Oroxylum,indicum,Fever and infection,fever,1
+Oroxylum,indicum,Women's health,childbirth,2
+Oroxylum,indicum,Skin and wounds,dermatitis; poultice; sore; ulcers,5
+Oroxylum,indicum,Pain and inflammation,headache; toothache,2
+Oroxylum,indicum,Urinary and kidney,diuretic,1
+Oroxylum,indicum,Respiratory,asthma; bronchitis; cough; expectorant,4
+Oroxylum,indicum,Liver,jaundice,1
+Calotropis,gigantea,Skin and wounds,boils; poultice; sore,3
+Vitex,negundo,Pain and inflammation,anodyne,1
+Vitex,negundo,General tonic and vitality,tonic,1
+Vitex,negundo,Respiratory,asthma; colds; expectorant,3
+Vitex,negundo,Urinary and kidney,diuretic,1
+Vitex,negundo,Fever and infection,febrifuge; fever,2
+Vitex,negundo,Skin and wounds,poultice; sore; ulcers; wounds,4
+Vitex,negundo,Women's health,emmenagogue,1
+Vitex,negundo,Digestive,diarrhoea; flatulence,2
+Vitex,negundo,Liver,liver,1
+Vitex,trifolia,Skin and wounds,poultice,1
+Vitex,trifolia,Pain and inflammation,headache; rheumatism,4
+Vitex,trifolia,Urinary and kidney,diuretic,1
+Vitex,trifolia,Fever and infection,fever,1
+Vitex,trifolia,Women's health,childbirth,1
+Vitex,trifolia,Respiratory,cold; cough; tuberculosis,3
+Vitex,trifolia,Digestive,anthelmintic; intestinal; nausea,3
+Vitex,trifolia,Liver,liver,1
+Calophyllum,inophyllum,Skin and wounds,boils; cuts; itch; scabies; sore; ulcers; wounds,13
+Calophyllum,inophyllum,Digestive,dysentery; purgative,2
+Calophyllum,inophyllum,Women's health,childbirth,1
+Calophyllum,inophyllum,Urinary and kidney,gonorrhoea,1
+Calophyllum,inophyllum,Respiratory,cold,1
+Calophyllum,inophyllum,Pain and inflammation,migraine; rheumatism,2
+Calophyllum,inophyllum,General tonic and vitality,tonic,1
+Calophyllum,inophyllum,Parasites and bites,poison,1
+Cecropia,peltata,Skin and wounds,sore; ulcers,2
+Cecropia,peltata,Respiratory,asthma; bronchitis,3
+Cecropia,peltata,Cardiovascular and metabolic,diabetes; hypertension,3
+Cecropia,peltata,Digestive,diarrhoea; dysentery,2
+Cecropia,peltata,Fever and infection,fever,1
+Cecropia,peltata,Urinary and kidney,diuretic; gonorrhoea,2
+Cecropia,peltata,Pain and inflammation,oedema; rheumatism; toothache,3
+Cecropia,peltata,Liver,liver,1
+Cecropia,peltata,General tonic and vitality,tonic,1
+Cecropia,peltata,Women's health,childbirth,1
+Phyllanthus,urinaria,Fever and infection,febrifuge; malaria,2
+Phyllanthus,urinaria,Skin and wounds,poultice; smallpox,2
+Phyllanthus,urinaria,Women's health,abortifacient; emmenagogue,2
+Phyllanthus,urinaria,Digestive,dysentery,1
+Phyllanthus,urinaria,Urinary and kidney,diuretic,1
+Tetracera,sarmentosa,Digestive,diarrhoea,1
+Tetracera,sarmentosa,Urinary and kidney,diuretic,1
+Tetracera,sarmentosa,Pain and inflammation,oedema,1
+Tetracera,sarmentosa,Liver,hepatic,1
+Tetracera,sarmentosa,General tonic and vitality,tonic,1
+Sida,acuta,Digestive,intestinal; stomachic; vomiting; worms,4
+Sida,acuta,General tonic and vitality,tonic,1
+Woodfordia,fruticosa,Women's health,childbirth,1
+Woodfordia,fruticosa,Skin and wounds,cut; ulcers; wounds,4
+Woodfordia,fruticosa,Urinary and kidney,diuretic,1
+Woodfordia,fruticosa,Fever and infection,fever,1
+Woodfordia,fruticosa,Pain and inflammation,rheumatism,1
+Woodfordia,fruticosa,Digestive,dysentery,1
+Woodfordia,fruticosa,General tonic and vitality,aphrodisiac; stimulant; tonic,3
+Woodfordia,fruticosa,Liver,liver,1
+Woodfordia,fruticosa,Nervous system,sedative,1
+Paederia,foetida,Digestive,diarrhoea; dysentery; flatulence; intestinal,6
+Paederia,foetida,Pain and inflammation,inflammation; rheumatism; toothache,6
+Paederia,foetida,Skin and wounds,bruises; poultice,2
+Paederia,foetida,Urinary and kidney,diuretic,2
+Paederia,foetida,Eye and ENT,earache,1
+Paederia,foetida,Fever and infection,fever,1
+Paederia,foetida,Liver,hepatic; liver,2
+Paederia,foetida,Parasites and bites,insect bites,1
+Eclipta,prostrata,Skin and wounds,eczema; ulcers; wound; wounds,5
+Eclipta,prostrata,Pain and inflammation,oedema; toothache,2
+Eclipta,prostrata,Digestive,constipation; diarrhoea; purgative,3
+Eclipta,prostrata,Liver,hepatic; jaundice; liver,3
+Eclipta,prostrata,Respiratory,asthma; bronchitis; tuberculosis,3
+Eclipta,prostrata,General tonic and vitality,tonic,1
+Eclipta,prostrata,Women's health,childbirth,1
+Eclipta,prostrata,Eye and ENT,conjunctivitis,1
+Elephantopus,scaber,Urinary and kidney,diuretic; venereal,3
+Elephantopus,scaber,Fever and infection,febrifuge; malaria,3
+Elephantopus,scaber,General tonic and vitality,aphrodisiac; tonic,4
+Elephantopus,scaber,Digestive,anthelmintic; diarrhoea; dysentery; dyspepsia; vomiting,7
+Elephantopus,scaber,Respiratory,asthma; cough,3
+Elephantopus,scaber,Women's health,emmenagogue; parturition,2
+Elephantopus,scaber,Skin and wounds,scabies,1
+Elephantopus,scaber,Liver,jaundice,1
+Elephantopus,scaber,Pain and inflammation,oedema,1
+Ipomoea,pes-caprae,General tonic and vitality,tonic,1
+Ipomoea,pes-caprae,Urinary and kidney,bladder; diuretic,2
+Ipomoea,pes-caprae,Digestive,laxative,1
+Ipomoea,pes-caprae,Skin and wounds,boils; ulcers,2
+Ipomoea,pes-caprae,Pain and inflammation,rheumatism,1
+Cardiospermum,halicacabum,Urinary and kidney,bladder; diuretic; urinary,4
+Cardiospermum,halicacabum,Digestive,diarrhoea; dysentery; laxative; purgative,4
+Cardiospermum,halicacabum,Respiratory,asthma; catarrh,2
+Cardiospermum,halicacabum,Pain and inflammation,headache; rheumatism,3
+Cardiospermum,halicacabum,Skin and wounds,poultice,1
+Cardiospermum,halicacabum,Eye and ENT,earache,1
+Brucea,javanica,Digestive,diarrhoea; dysentery,2
+Brucea,javanica,Fever and infection,febrifuge; malaria,2
+Brucea,javanica,Skin and wounds,boils; poultice; ulcers,3
+Brucea,javanica,Cancer and tumour,cancer,1
+Brucea,javanica,Pain and inflammation,pains; toothache,2
+Piper,umbellatum,Skin and wounds,burns; wounds,3
+Piper,umbellatum,Urinary and kidney,diuretic; urinary,4
+Piper,umbellatum,Pain and inflammation,headache; migraine; oedema; pains,5
+Piper,umbellatum,Respiratory,cough,1
+Piper,umbellatum,Eye and ENT,conjunctivitis; earache,2
+Piper,umbellatum,Women's health,emmenagogue; menstrual; uterine,4
+Piper,umbellatum,Liver,jaundice; liver,2
+Piper,umbellatum,Fever and infection,malaria,1
+Piper,umbellatum,General tonic and vitality,stimulant,1
+Piper,umbellatum,Digestive,constipation; dyspepsia,2
+Piper,umbellatum,Parasites and bites,poison,1
+Euphorbia,neriifolia,Eye and ENT,earache,1
+Euphorbia,neriifolia,Digestive,purgative,2
+Euphorbia,neriifolia,Urinary and kidney,diuretic; gonorrhoea,2
+Euphorbia,neriifolia,Respiratory,asthma,1
+Euphorbia,neriifolia,Skin and wounds,cuts; sore,2
+Euphorbia,neriifolia,Fever and infection,antiseptic,1
+Euphorbia,neriifolia,Parasites and bites,poison,1
+Hibiscus,tiliaceus,Digestive,diarrhoea; dysentery; laxative,3
+Hibiscus,tiliaceus,Skin and wounds,sore,1
+Hibiscus,tiliaceus,Respiratory,cough; pneumonia; tuberculosis,3
+Cyathula,prostrata,Respiratory,colds; cough; expectorant,5
+Cyathula,prostrata,Digestive,dysentery; intestinal; laxative; worms,6
+Cyathula,prostrata,Skin and wounds,burns; itch; scabies,3
+Cyathula,prostrata,Fever and infection,fever,1
+Cyathula,prostrata,Women's health,abortifacient; menstrual,2
+Cyathula,prostrata,Urinary and kidney,diuretic,1
+Cyathula,prostrata,Pain and inflammation,headache; rheumatism,4
+Clerodendrum,serratum,Pain and inflammation,headache; oedema; rheumatism,5
+Clerodendrum,serratum,Fever and infection,antimalarial; fever,2
+Clerodendrum,serratum,Skin and wounds,poultice,1
+Clerodendrum,serratum,Digestive,abdominal pain; dyspepsia,2
+Clerodendrum,serratum,Urinary and kidney,diuretic,1
+Clerodendrum,serratum,Respiratory,cough,1
+Clerodendrum,serratum,Eye and ENT,ophthalmia,1
+Ficus,religiosa,Skin and wounds,scabies; ulcers; wound,3
+Ficus,religiosa,Digestive,diarrhoea; laxative,3
+Ficus,religiosa,General tonic and vitality,aphrodisiac,1
+Ficus,religiosa,Urinary and kidney,diuretic,1
+Leonurus,sibiricus,Women's health,childbirth; menstrual; menstruation,5
+Leonurus,sibiricus,Cardiovascular and metabolic,blood pressure; circulation,2
+Leonurus,sibiricus,Urinary and kidney,bladder; diuretic,3
+Leonurus,sibiricus,Skin and wounds,poultice,1
+Leonurus,sibiricus,Fever and infection,febrifuge; malaria,2
+Euphorbia,antiquorum,Digestive,dysentery; purgative; vomiting,3
+Euphorbia,antiquorum,Skin and wounds,boils,1
+Euphorbia,antiquorum,Pain and inflammation,rheumatism; toothache,3
+Euphorbia,antiquorum,Eye and ENT,earache,1
+Euphorbia,antiquorum,Respiratory,asthma,1
+Euphorbia,antiquorum,Fever and infection,febrifuge,1
+Euphorbia,antiquorum,Parasites and bites,insecticidal; poison,2
+Sophora,tomentosa,Respiratory,expectorant,1
+Sophora,tomentosa,Digestive,dysentery,1
+Sophora,tomentosa,Parasites and bites,antidote; poison,3
+Sophora,tomentosa,Urinary and kidney,gonorrhoea,1
+Euphorbia,thymifolia,General tonic and vitality,stimulant,1
+Euphorbia,thymifolia,Urinary and kidney,diuretic; gonorrhoea,2
+Euphorbia,thymifolia,Digestive,anthelmintic; diarrhoea; dysentery; laxative,4
+Euphorbia,thymifolia,Nervous system,antispasmodic,1
+Euphorbia,thymifolia,Fever and infection,antifungal,1
+Euphorbia,thymifolia,Eye and ENT,earache,1
+Euphorbia,thymifolia,Respiratory,asthma,1
+Euphorbia,thymifolia,Skin and wounds,poultice; wounds,3
+Euphorbia,thymifolia,Parasites and bites,poison,1
+Caesalpinia,sappan,Women's health,emmenagogue,3
+Caesalpinia,sappan,Respiratory,expectorant; tuberculosis,3
+Caesalpinia,sappan,Digestive,diarrhoea; dysentery,2
+Caesalpinia,sappan,Nervous system,sedative,1
+Caesalpinia,sappan,General tonic and vitality,tonic,1
+Plectranthus,amboinicus,Skin and wounds,burns; cuts; scabies; ulcers; wound; wounds,7
+Plectranthus,amboinicus,Fever and infection,fever,1
+Plectranthus,amboinicus,Respiratory,asthma; bronchitis; cough,7
+Plectranthus,amboinicus,Pain and inflammation,headache,2
+Plectranthus,amboinicus,Women's health,childbirth,1
+Plectranthus,amboinicus,Digestive,carminative; dyspepsia,2
+Plectranthus,amboinicus,Urinary and kidney,urinary,1
+Ficus,benghalensis,Digestive,diarrhoea; dysentery; vomiting,3
+Ficus,benghalensis,Skin and wounds,poultice,1
+Ficus,benghalensis,General tonic and vitality,aphrodisiac; tonic,3
+Ficus,benghalensis,Urinary and kidney,diuretic; gonorrhoea,3
+Ficus,benghalensis,Pain and inflammation,pains; rheumatism; toothache,3
+Ficus,benghalensis,Fever and infection,fever,1
+Tinospora,crispa,Cardiovascular and metabolic,blood pressure; diabetes,3
+Tinospora,crispa,Skin and wounds,scabies; wounds,2
+Tinospora,crispa,Pain and inflammation,pains,1
+Tinospora,crispa,Fever and infection,fever; malaria,3
+Tinospora,crispa,Liver,jaundice,2
+Tinospora,crispa,Digestive,worms,1
+Peperomia,pellucida,Skin and wounds,boils; poultice,2
+Peperomia,pellucida,Urinary and kidney,kidney,1
+Peperomia,pellucida,Pain and inflammation,headache; pains; rheumatism,3
+Caesalpinia,crista,Urinary and kidney,bladder; diuretic; kidney,3
+Caesalpinia,crista,General tonic and vitality,tonic,1
+Bryophyllum,pinnatum,Skin and wounds,boils; burns; poultice; wounds,4
+Jatropha,multifida,Women's health,abortifacient,1
+Jatropha,multifida,Digestive,dysentery; indigestion; purgative,4
+Jatropha,multifida,Skin and wounds,scabies; ulcers; wound; wounds,5
+Jatropha,multifida,General tonic and vitality,tonic,1
+Jatropha,multifida,Parasites and bites,poison,1
+Pluchea,indica,Fever and infection,febrifuge; fever,2
+Pluchea,indica,Digestive,diarrhoea; dysentery; dyspepsia; stomachic,5
+Pluchea,indica,Respiratory,asthma; colds; cough,3
+Pluchea,indica,General tonic and vitality,stimulant,1
+Pluchea,indica,Skin and wounds,poultice; scabies; ulcers,4
+Pluchea,indica,Pain and inflammation,headache; pains; rheumatism,3
+Pluchea,indica,Urinary and kidney,diuretic,1
+Stemona,tuberosa,Skin and wounds,scabies,1
+Stemona,tuberosa,Digestive,anthelmintic; purgative,3
+Stemona,tuberosa,Parasites and bites,poison; snakebite,2
+Stemona,tuberosa,Women's health,childbirth,1
+Plumbago,indica,Skin and wounds,cut; poultice,2
+Plumbago,indica,Pain and inflammation,headache; rheumatism; toothache,7
+Plumbago,indica,Women's health,abortifacient; emmenagogue,3
+Plumbago,indica,Digestive,carminative; stomachic,2
+Cassia,fistula,Digestive,anthelmintic; laxative,2
+Cassia,fistula,Skin and wounds,ulcers,1
+Crinum,asiaticum,Women's health,childbirth,1
+Crinum,asiaticum,Skin and wounds,cuts; poultice; wounds,5
+Crinum,asiaticum,Pain and inflammation,rheumatism,1
+Crinum,asiaticum,Urinary and kidney,diuretic,1
+Alternanthera,sessilis,Digestive,diarrhoea; dysentery; intestinal,5
+Alternanthera,sessilis,Fever and infection,febrifuge; fever,3
+Alternanthera,sessilis,Pain and inflammation,inflammation,1
+Alternanthera,sessilis,Skin and wounds,boils; wounds,3
+Alternanthera,sessilis,Respiratory,asthma; bronchitis,2
+Alternanthera,sessilis,General tonic and vitality,tonic,1
+Alternanthera,sessilis,Women's health,abortifacient,1
+Blumea,balsamifera,Digestive,carminative; dyspepsia; stomachic,4
+Blumea,balsamifera,General tonic and vitality,stimulant,1
+Blumea,balsamifera,Skin and wounds,ulcers,1
+Blumea,balsamifera,Respiratory,bronchitis; cough; expectorant,4
+Blumea,balsamifera,Pain and inflammation,arthritis; rheumatism,2
+Blumea,balsamifera,Nervous system,insomnia,1
+Blumea,balsamifera,Urinary and kidney,diuretic; kidney,2
+Blumea,balsamifera,Women's health,childbirth; emmenagogue,2
+Zanthoxylum,nitidum,Pain and inflammation,inflammation; rheumatism; toothache,6
+Zanthoxylum,nitidum,Digestive,anthelmintic; carminative; stomachic,3
+Zanthoxylum,nitidum,General tonic and vitality,stimulant,2
+Zanthoxylum,nitidum,Respiratory,catarrh,1
+Zanthoxylum,nitidum,Women's health,emmenagogue; uterine,2
+Zanthoxylum,nitidum,Fever and infection,febrifuge,1
+Zanthoxylum,nitidum,Skin and wounds,boils,1
+Zanthoxylum,nitidum,Parasites and bites,poison,1
+Ixora,coccinea,Nervous system,sedative,3
+Ixora,coccinea,Digestive,diarrhoea; dysentery; gastric; nausea; stomachic,7
+Ixora,coccinea,Respiratory,bronchitis,1
+Ixora,coccinea,Pain and inflammation,analgesic; headache; pains,3
+Ixora,coccinea,Urinary and kidney,diuretic; gonorrhoea,2
+Ixora,coccinea,General tonic and vitality,stimulant,2
+Ixora,coccinea,Fever and infection,antiseptic; fever,2
+Ixora,coccinea,Skin and wounds,ulcers,2
+Pouzolzia,zeylanica,Skin and wounds,cuts; poultice; sore; ulcers; wounds,8
+Pouzolzia,zeylanica,Respiratory,cough,1
+Pouzolzia,zeylanica,Urinary and kidney,diuretic; gonorrhoea,2
+Mallotus,philippensis,Digestive,anthelmintic; constipation; diarrhoea; purgative,5
+Mallotus,philippensis,Liver,liver,1
+Mallotus,philippensis,Skin and wounds,wounds,2
+Mallotus,philippensis,Pain and inflammation,inflammation,1
+Mallotus,philippensis,Urinary and kidney,diuretic; kidney,2
+Cordia,dichotoma,Digestive,anthelmintic; demulcent; diarrhoea; dysentery; dyspepsia; laxative,8
+Cordia,dichotoma,Fever and infection,fever; malaria,4
+Cordia,dichotoma,Pain and inflammation,headache; inflammation; migraine,3
+Cordia,dichotoma,General tonic and vitality,tonic,5
+Cordia,dichotoma,Women's health,parturition,1
+Cordia,dichotoma,Skin and wounds,boils; bruises; poultice; ulcers; wounds,7
+Cordia,dichotoma,Respiratory,catarrh; colds; cough; pneumonia,5
+Cordia,dichotoma,Urinary and kidney,gonorrhoea,1
+Cordia,dichotoma,Parasites and bites,poison; snakebite,2
+Cordia,dichotoma,Nervous system,insomnia,1
+Pavetta,indica,Skin and wounds,boils; cut; itch; poultice; ulcers,5
+Pavetta,indica,Women's health,childbirth,2
+Pavetta,indica,Fever and infection,fever,1
+Pavetta,indica,Digestive,intestinal; purgative,3
+Pavetta,indica,Urinary and kidney,diuretic; urinary,3
+Pavetta,indica,Pain and inflammation,headache; rheumatism,2
+Pavetta,indica,General tonic and vitality,tonic,1
+Pavetta,indica,Liver,jaundice,1
+Centipeda,minima,Respiratory,bronchitis; cold; cough,3
+Centipeda,minima,Fever and infection,malaria,1
+Centipeda,minima,Cardiovascular and metabolic,diabetes,1
+Centipeda,minima,Skin and wounds,eczema,1
+Centipeda,minima,Pain and inflammation,toothache,1
+Centipeda,minima,General tonic and vitality,stimulant,1
+Butea,monosperma,Digestive,anthelmintic; diarrhoea,3
+Butea,monosperma,Skin and wounds,boils; ulcer; ulcers,3
+Butea,monosperma,General tonic and vitality,aphrodisiac,1
+Butea,monosperma,Pain and inflammation,analgesic,1
+Butea,monosperma,Parasites and bites,fungicidal,1
+Butea,monosperma,Liver,liver,1
+Butea,monosperma,Urinary and kidney,diuretic,1
+Caesalpinia,bonduc,Digestive,anthelmintic; carminative; purgative,5
+Caesalpinia,bonduc,Fever and infection,febrifuge,2
+Caesalpinia,bonduc,General tonic and vitality,tonic,2
+Caesalpinia,bonduc,Respiratory,cough,1
+Caesalpinia,bonduc,Women's health,emmenagogue,1
+Desmodium,triflorum,Digestive,diarrhoea; dysentery,2
+Desmodium,triflorum,Respiratory,expectorant,1
+Desmodium,triflorum,Skin and wounds,poultice; ulcers; wounds,3
+Desmodium,triflorum,Fever and infection,antiseptic,1
+Pangium,edule,Fever and infection,antiseptic,1
+Pangium,edule,Skin and wounds,cuts; wounds,2
+Pangium,edule,Parasites and bites,poison,1
+Pangium,edule,Digestive,anthelmintic,1
+Pangium,edule,Nervous system,narcotic,1
+Pangium,edule,Pain and inflammation,headache,1
+Pangium,edule,Respiratory,cold,1
+Dichroa,febrifuga,Skin and wounds,poultice,1
+Dichroa,febrifuga,Fever and infection,antimalarial; fever; malaria,3
+Dichroa,febrifuga,Digestive,nausea; vomiting; worms,5
+Dichroa,febrifuga,Respiratory,expectorant,1
+Dichroa,febrifuga,Urinary and kidney,diuretic,1
+Dichroa,febrifuga,Cardiovascular and metabolic,circulation,1
+Solanum,erianthum,Women's health,abortifacient; childbirth,2
+Solanum,erianthum,Pain and inflammation,arthritis; headache; pains,3
+Solanum,erianthum,Digestive,diarrhoea; dysentery,2
+Solanum,erianthum,Fever and infection,fever,1
+Bauhinia,variegata,Skin and wounds,poultice; ulcers,2
+Bauhinia,variegata,Pain and inflammation,headache,1
+Bauhinia,variegata,Digestive,dyspepsia,1
+Bauhinia,variegata,General tonic and vitality,tonic,2
+Melochia,corchorifolia,Parasites and bites,antidote,1
+Melochia,corchorifolia,Skin and wounds,smallpox; wounds,2
+Melochia,corchorifolia,Digestive,dysentery; vomiting,3
+Melochia,corchorifolia,Urinary and kidney,urinary,1
+Melochia,corchorifolia,Pain and inflammation,headache; swelling,2
+Cassytha,filiformis,Urinary and kidney,diuretic; gonorrhoea; urinary; venereal,4
+Cassytha,filiformis,General tonic and vitality,tonic,2
+Cassytha,filiformis,Digestive,diarrhoea; indigestion; intestinal,4
+Cassytha,filiformis,Skin and wounds,eczema; itch; ulcers,3
+Cassytha,filiformis,Pain and inflammation,headache; oedema,2
+Cassytha,filiformis,Fever and infection,fever; malaria,3
+Cassytha,filiformis,Women's health,lactation; menstruation; parturition,4
+Quassia,indica,Digestive,intestinal; purgative; stomachic,3
+Quassia,indica,Fever and infection,febrifuge,1
+Quassia,indica,General tonic and vitality,tonic,1
+Quassia,indica,Women's health,emmenagogue,1
+Quassia,indica,Skin and wounds,bruises,1
+Quassia,indica,Pain and inflammation,rheumatism,1
+Quassia,indica,Respiratory,cough,1
+Trianthema,portulacastrum,Digestive,diarrhoea; stomachic,2
+Trianthema,portulacastrum,Liver,jaundice; liver,2
+Trianthema,portulacastrum,Respiratory,asthma,1
+Trianthema,portulacastrum,Women's health,abortifacient; emmenagogue,2
+Trianthema,portulacastrum,Urinary and kidney,diuretic; gonorrhoea; venereal,3
+Trianthema,portulacastrum,Pain and inflammation,oedema; rheumatism,2
+Trianthema,portulacastrum,Parasites and bites,antidote,1
+Trianthema,portulacastrum,Skin and wounds,poultice; wound,2
+Bauhinia,purpurea,Skin and wounds,boils,1
+Bauhinia,purpurea,Parasites and bites,antidote; poison,2
+Bauhinia,purpurea,Digestive,anthelmintic; carminative; diarrhoea; laxative,4
+Bauhinia,purpurea,Urinary and kidney,diuretic,1
+Bauhinia,purpurea,Respiratory,cough,1
+Embelia,ribes,Digestive,diarrhoea,1
+Embelia,ribes,Parasites and bites,poison,1
+Sphaeranthus,indicus,Fever and infection,antibacterial,1
+Sphaeranthus,indicus,Liver,liver,1
+Sphaeranthus,indicus,Digestive,anthelmintic; gastric,2
+Sphaeranthus,indicus,Skin and wounds,itch,1
+Sphaeranthus,indicus,Pain and inflammation,pains,1
+Sphaeranthus,indicus,Respiratory,cough,1
+Sphaeranthus,indicus,General tonic and vitality,tonic,1
+Sphaeranthus,indicus,Urinary and kidney,urinary,1
+Callicarpa,longifolia,Fever and infection,fever,3
+Callicarpa,longifolia,Women's health,parturition,2
+Callicarpa,longifolia,Digestive,diarrhoea,2
+Callicarpa,longifolia,Skin and wounds,boils; bruises; poultice; ulcers; wounds,5
+Ficus,pumila,General tonic and vitality,impotence; tonic,2
+Ficus,pumila,Pain and inflammation,rheumatism,1
+Ficus,pumila,Digestive,anthelmintic; dysentery,2
+Micromelum,minutum,Skin and wounds,poultice; scabies; sore,4
+Micromelum,minutum,Fever and infection,febrifuge,1
+Micromelum,minutum,Digestive,carminative; diarrhoea,2
+Micromelum,minutum,Pain and inflammation,headache; toothache,3
+Micromelum,minutum,Women's health,menstruation,1
+Micromelum,minutum,Urinary and kidney,gonorrhoea,1
+Micromelum,minutum,General tonic and vitality,tonic,1
+Cissus,adnata,Respiratory,cold; cough,3
+Cissus,adnata,Digestive,diarrhoea,1
+Cissus,adnata,Skin and wounds,boils; cuts; poultice,4
+Cissus,adnata,Urinary and kidney,diuretic,1
+Glycosmis,pentaphylla,Digestive,diarrhoea; intestinal; stomachic,3
+Glycosmis,pentaphylla,Women's health,childbirth,1
+Glycosmis,pentaphylla,Pain and inflammation,inflammation; rheumatism,2
+Glycosmis,pentaphylla,Liver,jaundice; liver,2
+Glycosmis,pentaphylla,Fever and infection,fever,1
+Glycosmis,pentaphylla,Skin and wounds,eczema,1
+Melastoma,malabathricum,Digestive,diarrhoea; dysentery; indigestion,7
+Melastoma,malabathricum,Women's health,childbirth,1
+Melastoma,malabathricum,Skin and wounds,cuts; poultice; wounds,7
+Melastoma,malabathricum,Pain and inflammation,toothache,3
+Sambucus,javanica,Digestive,laxative,2
+Sambucus,javanica,Urinary and kidney,diuretic,2
+Sambucus,javanica,Pain and inflammation,analgesic; pains,3
+Sambucus,javanica,Skin and wounds,poultice,1
+Leea,indica,Skin and wounds,cuts; poultice; wounds,4
+Leea,indica,Fever and infection,fever,1
+Leea,indica,Pain and inflammation,anodyne; headache; pains,4
+Leea,indica,Digestive,diarrhoea; dysentery; intestinal,3
+Leea,indica,Cancer and tumour,cancer,2
+Leea,indica,Respiratory,cough,1
+Arcangelisia,flava,Liver,jaundice,1
+Arcangelisia,flava,Digestive,dysentery; indigestion; intestinal; stomachic; worms,6
+Arcangelisia,flava,Fever and infection,antiseptic; febrifuge; fever,3
+Arcangelisia,flava,Skin and wounds,cut; ulcers; wounds,3
+Arcangelisia,flava,Respiratory,expectorant,1
+Arcangelisia,flava,General tonic and vitality,tonic,2
+Arcangelisia,flava,Women's health,emmenagogue,2
+Arcangelisia,flava,Parasites and bites,poison,1
+Buddleja,asiatica,Women's health,abortifacient; childbirth,2
+Buddleja,asiatica,Pain and inflammation,headache; inflammation,3
+Buddleja,asiatica,Fever and infection,malaria,1
+Buddleja,asiatica,General tonic and vitality,tonic,1
+Buddleja,asiatica,Digestive,diarrhoea; intestinal,2
+Biophytum,sensitivum,Skin and wounds,sore; wounds,2
+Biophytum,sensitivum,Fever and infection,fever,1
+Trichosanthes,cucumerina,Digestive,purgative,1
+Trichosanthes,cucumerina,Respiratory,cough,1
+Lindernia,crustacea,Women's health,childbirth,1
+Lindernia,crustacea,Skin and wounds,boils,1
+Lindernia,crustacea,Digestive,diarrhoea; dysentery; vomiting,3
+Excoecaria,agallocha,Skin and wounds,ulcers,2
+Excoecaria,agallocha,Digestive,anthelmintic; constipation; purgative; vomiting,5
+Excoecaria,agallocha,Women's health,abortifacient,1
+Excoecaria,agallocha,Respiratory,asthma; pneumonia,2
+Excoecaria,agallocha,Parasites and bites,antidote; poison,3
+Excoecaria,agallocha,Nervous system,epilepsy,1
+Abutilon,indicum,Digestive,demulcent,1
+Abutilon,indicum,Urinary and kidney,diuretic,1
+Abutilon,indicum,Fever and infection,fever,1
+Abutilon,indicum,Skin and wounds,ulcers; wounds,2
+Smilax,zeylanica,Urinary and kidney,venereal,1
+Barleria,prionitis,Urinary and kidney,diuretic; urinary,2
+Barleria,prionitis,General tonic and vitality,tonic,1
+Barleria,prionitis,Fever and infection,fever,1
+Barleria,prionitis,Pain and inflammation,headache; rheumatism,2
+Barleria,prionitis,Liver,jaundice; liver,2
+Barleria,prionitis,Digestive,constipation; indigestion,2
+Barleria,prionitis,Skin and wounds,boils,1
+Barleria,prionitis,Eye and ENT,earache,1
+Clausena,excavata,Digestive,dyspepsia; intestinal; worms,3
+Clausena,excavata,Respiratory,colds; cough,2
+Clausena,excavata,Fever and infection,fever; malaria,2
+Clausena,excavata,Skin and wounds,poultice,2
+Clausena,excavata,Pain and inflammation,headache,1
+Clausena,excavata,Women's health,childbirth; emmenagogue,2
+Clausena,excavata,General tonic and vitality,tonic,1
+Clausena,excavata,Parasites and bites,insecticidal,1
+Trapa,natans,Fever and infection,fever,1
+Trapa,natans,Pain and inflammation,headache,1
+Trapa,natans,General tonic and vitality,tonic,2
+Trapa,natans,Cancer and tumour,cancer,1
+Euchresta,horsfieldii,Parasites and bites,antidote; poison,2
+Euchresta,horsfieldii,General tonic and vitality,aphrodisiac; tonic,2
+Euchresta,horsfieldii,Women's health,childbirth,1
+Pericampylus,glaucus,Fever and infection,fever,1
+Pericampylus,glaucus,Respiratory,asthma,1
+Pericampylus,glaucus,Pain and inflammation,headache,1
+Pericampylus,glaucus,Eye and ENT,conjunctivitis,1
+Pericampylus,glaucus,Parasites and bites,antidote; poison; snakebite,3
+Pericampylus,glaucus,Nervous system,narcotic,1
+Leucas,zeylanica,Nervous system,sedative,1
+Leucas,zeylanica,Skin and wounds,wounds,1
+Illicium,anisatum,Pain and inflammation,pains; rheumatism; toothache,3
+Illicium,anisatum,Skin and wounds,cut; dermatitis,3
+Illicium,anisatum,Parasites and bites,poison,1
+Illicium,anisatum,Digestive,carminative; diarrhoea; intestinal; stomachic; vomiting,6
+Illicium,anisatum,Respiratory,cold; expectorant,2
+Illicium,anisatum,Women's health,childbirth; menstruation,2
+Illicium,anisatum,General tonic and vitality,stimulant,1
+Illicium,anisatum,Fever and infection,antiseptic,1
+Rubus,moluccanus,Digestive,diarrhoea; dysentery,4
+Rubus,moluccanus,Women's health,abortifacient,1
+Rubus,moluccanus,Respiratory,cough,1
+Rubus,moluccanus,General tonic and vitality,tonic,1
+Senna,alata,Skin and wounds,eczema; scabies,2
+Senna,alata,Digestive,laxative; purgative,4
+Senna,alata,Respiratory,bronchitis; expectorant,2
+Sauropus,androgynus,Fever and infection,fever,1
+Sauropus,androgynus,Urinary and kidney,urinary,1
+Sauropus,androgynus,Women's health,childbirth,1
+Sauropus,androgynus,Skin and wounds,poultice,1
+Spigelia,anthelmia,Digestive,intestinal; purgative; worms,3
+Spigelia,anthelmia,Parasites and bites,poison,1
+Drymaria,cordata,Fever and infection,febrifuge; fever; malaria,3
+Drymaria,cordata,Digestive,laxative,2
+Drymaria,cordata,Skin and wounds,boils; poultice,2
+Drymaria,cordata,Respiratory,bronchitis; colds,2
+Drymaria,cordata,Pain and inflammation,inflammation,1
+Cerbera,manghas,Digestive,laxative; purgative,2
+Cerbera,manghas,Liver,liver,1
+Cerbera,manghas,Respiratory,cold,1
+Cerbera,manghas,Women's health,abortifacient,1
+Mollugo,pentaphylla,Skin and wounds,sore,1
+Mollugo,pentaphylla,Digestive,laxative; stomachic,2
+Mollugo,pentaphylla,Fever and infection,antiseptic,1
+Mollugo,pentaphylla,Women's health,emmenagogue,1
+Blumea,lacera,Respiratory,bronchitis,1
+Blumea,lacera,Digestive,anthelmintic,1
+Blumea,lacera,Fever and infection,febrifuge,1
+Blumea,lacera,General tonic and vitality,stimulant,1
+Blumea,lacera,Urinary and kidney,diuretic,1
+Blumea,lacera,Skin and wounds,wound,1
+Strychnos,ignatii,Digestive,stomachic; vomiting,3
+Strychnos,ignatii,Fever and infection,febrifuge; malaria,3
+Strychnos,ignatii,General tonic and vitality,tonic,2
+Strychnos,ignatii,Cardiovascular and metabolic,diabetes,1
+Strychnos,ignatii,Respiratory,asthma,1
+Strychnos,ignatii,Pain and inflammation,rheumatism,1
+Strychnos,ignatii,Parasites and bites,poison,2
+Sphaeranthus,africanus,Pain and inflammation,toothache,1
+Sphaeranthus,africanus,Digestive,stomachic,1
+Morus,nigra,Respiratory,cough,1
+Coscinium,fenestratum,Fever and infection,antiseptic; fever,2
+Coscinium,fenestratum,Skin and wounds,burns; ulcers; wounds,3
+Coscinium,fenestratum,Digestive,dysentery; stomachic,3
+Coscinium,fenestratum,Liver,jaundice,1
+Coscinium,fenestratum,Women's health,childbirth,1
+Coscinium,fenestratum,Nervous system,tetanus,1
+Coscinium,fenestratum,Parasites and bites,poison,1
+Hedychium,coronarium,Fever and infection,febrifuge,1
+Hedychium,coronarium,Skin and wounds,sore,1
+Caesalpinia,coriaria,Skin and wounds,wounds,2
+Lobelia,chinensis,Urinary and kidney,diuretic,2
+Lobelia,chinensis,Skin and wounds,boils,1
+Lobelia,chinensis,General tonic and vitality,tonic,1
+Lobelia,chinensis,Respiratory,asthma; tuberculosis,2
+Lobelia,chinensis,Digestive,vomiting,1
+Lobelia,chinensis,Cardiovascular and metabolic,blood pressure,1
+Clerodendrum,indicum,Respiratory,asthma,2
+Clerodendrum,indicum,Pain and inflammation,rheumatism,1
+Clerodendrum,indicum,General tonic and vitality,tonic,1
+Physalis,minima,Urinary and kidney,diuretic,2
+Physalis,minima,Digestive,purgative,1
+Physalis,minima,Pain and inflammation,headache,1
+Physalis,minima,Cardiovascular and metabolic,diabetes; hypertension,2
+Antiaris,toxicaria,Parasites and bites,poison,4
+Antiaris,toxicaria,Fever and infection,febrifuge,2
+Antiaris,toxicaria,General tonic and vitality,stimulant,1
+Antiaris,toxicaria,Skin and wounds,poultice,1
+Antiaris,toxicaria,Digestive,dysentery,1
+Antiaris,toxicaria,Nervous system,epilepsy,1
+Merremia,emarginata,Respiratory,cough,1
+Merremia,emarginata,Urinary and kidney,diuretic,2
+Merremia,emarginata,Digestive,purgative,1
+Merremia,emarginata,Pain and inflammation,neuralgia; rheumatism,2
+Derris,elliptica,Parasites and bites,poison,2
+Derris,elliptica,Women's health,emmenagogue,1
+Derris,elliptica,General tonic and vitality,tonic,1
+Ficus,hispida,General tonic and vitality,tonic,1
+Ficus,hispida,Fever and infection,fever,1
+Ficus,hispida,Digestive,diarrhoea,1
+Ficus,hispida,Liver,jaundice,1
+Ficus,hispida,Skin and wounds,boils; poultice,2
+Capparis,zeylanica,Skin and wounds,boils,1
+Merremia,umbellata,Skin and wounds,burns; poultice,3
+Merremia,umbellata,Digestive,purgative,1
+Leea,aequata,Fever and infection,antiseptic,1
+Leea,aequata,Skin and wounds,wounds,2
+Celastrus,paniculatus,Digestive,dysentery,1
+Celastrus,paniculatus,Fever and infection,antimalarial,1
+Celastrus,paniculatus,Respiratory,tuberculosis,1
+Celastrus,paniculatus,Urinary and kidney,diuretic; kidney,2
+Celastrus,paniculatus,General tonic and vitality,stimulant; tonic,2
+Celastrus,paniculatus,Skin and wounds,poultice,1
+Celastrus,paniculatus,Pain and inflammation,pains,2
+Celastrus,paniculatus,Parasites and bites,antidote,1
+Sapindus,rarak,Skin and wounds,scabies,1
+Sapindus,rarak,Parasites and bites,poison,1
+Leonotis,nepetifolia,Skin and wounds,burns; itch; ulcers; wounds,7
+Leonotis,nepetifolia,Respiratory,asthma; catarrh,2
+Leonotis,nepetifolia,Fever and infection,febrifuge; fever,4
+Leonotis,nepetifolia,Pain and inflammation,headache; rheumatism,2
+Leonotis,nepetifolia,General tonic and vitality,tonic,2
+Leonotis,nepetifolia,Digestive,intestinal; stomachic,2
+Leonotis,nepetifolia,Urinary and kidney,diuretic,1
+Leonotis,nepetifolia,Cancer and tumour,cancer,1
+Leonotis,nepetifolia,Women's health,emmenagogue,1
+Leonotis,nepetifolia,Nervous system,narcotic,1
+Ficus,septica,Parasites and bites,antidote,1
+Ficus,septica,Respiratory,colds,1
+Ficus,septica,Fever and infection,fever,1
+Ficus,septica,Digestive,diarrhoea; dysentery,2
+Ficus,septica,Urinary and kidney,diuretic; urinary,2
+Ficus,septica,Pain and inflammation,headache; rheumatism,2
+Ficus,septica,Skin and wounds,boils; poultice; wounds,3
+Merremia,tridentata,Digestive,purgative,1
+Merremia,tridentata,Urinary and kidney,diuretic; gonorrhoea,2
+Merremia,tridentata,Skin and wounds,poultice,1
+Merremia,tridentata,Fever and infection,fever,1
+Merremia,tridentata,Pain and inflammation,toothache,1
+Merremia,tridentata,General tonic and vitality,tonic,1
+Premna,tomentosa,General tonic and vitality,tonic,1
+Premna,tomentosa,Women's health,childbirth,1
+Premna,tomentosa,Digestive,diarrhoea,1
+Premna,tomentosa,Urinary and kidney,diuretic,1
+Premna,tomentosa,Skin and wounds,wounds,1
+Commelina,diffusa,Women's health,irregular menstruation; menstruation,2
+Commelina,diffusa,Skin and wounds,wounds,1
+Pothos,scandens,Digestive,indigestion; worms,2
+Pothos,scandens,Skin and wounds,bruises; smallpox; wounds,3
+Pothos,scandens,Respiratory,asthma; cough,2
+Pothos,scandens,Pain and inflammation,rheumatism,1
+Pothos,scandens,Nervous system,epilepsy,1
+Pothos,scandens,Urinary and kidney,urinary,1
+Callicarpa,pedunculata,Parasites and bites,antidote,1
+Callicarpa,pedunculata,Skin and wounds,boils; poultice; ulcers,3
+Callicarpa,pedunculata,Women's health,emmenagogue; parturition,2
+Polygala,chinensis,Respiratory,asthma; bronchitis; cough,3
+Polygala,chinensis,Digestive,diarrhoea,1
+Phyllanthus,simplex,Fever and infection,antiseptic,1
+Merremia,mammosa,Digestive,dysentery; purgative,3
+Merremia,mammosa,Fever and infection,fever,1
+Merremia,mammosa,Parasites and bites,snakebite,1
+Merremia,mammosa,Skin and wounds,burns,1
+Merremia,mammosa,Pain and inflammation,oedema,1
+Jatropha,gossypiifolia,Digestive,purgative; stomachic,3
+Jatropha,gossypiifolia,Skin and wounds,boils; eczema; ulcers,3
+Jatropha,gossypiifolia,Fever and infection,febrifuge; fever,2
+Jatropha,gossypiifolia,Urinary and kidney,venereal,1
+Jatropha,gossypiifolia,Women's health,emmenagogue,1
+Reissantia,indica,Fever and infection,fever,1
+Reissantia,indica,Women's health,childbirth,1
+Reissantia,indica,Skin and wounds,poultice,1
+Reissantia,indica,Pain and inflammation,rheumatism,1
+Rhinacanthus,nasutus,Skin and wounds,eczema,1
+Rhinacanthus,nasutus,Cardiovascular and metabolic,hypertension,1
+Rhinacanthus,nasutus,Respiratory,tuberculosis,1
+Rhinacanthus,nasutus,General tonic and vitality,aphrodisiac,1
+Rhinacanthus,nasutus,Cancer and tumour,cancer,1
+Grangea,maderaspatana,Digestive,stomachic,4
+Grangea,maderaspatana,Nervous system,antispasmodic,2
+Grangea,maderaspatana,Fever and infection,antiseptic,2
+Grangea,maderaspatana,General tonic and vitality,tonic,1
+Grangea,maderaspatana,Pain and inflammation,anodyne,1
+Taxus,sumatrana,Urinary and kidney,kidney,1
+Taxus,sumatrana,Cardiovascular and metabolic,diabetes,1
+Taxus,sumatrana,Respiratory,cough,1
+Taxus,sumatrana,Women's health,emmenagogue,1
+Gmelina,elliptica,Eye and ENT,earache,1
+Gmelina,elliptica,Pain and inflammation,headache,1
+Gmelina,elliptica,Skin and wounds,wounds,1
+Pipturus,argenteus,Skin and wounds,boils; burns; cut; wounds,5
+Pipturus,argenteus,Fever and infection,fever; malaria,3
+Pipturus,argenteus,Respiratory,asthma; cold; cough,5
+Pipturus,argenteus,Pain and inflammation,headache; toothache,2
+Pipturus,argenteus,Digestive,dysentery,1
+Dianella,ensifolia,Skin and wounds,boils; itch; wounds,3
+Dianella,ensifolia,Liver,jaundice,1
+Dianella,ensifolia,Pain and inflammation,rheumatism,1
+Dianella,ensifolia,Digestive,dysentery,1
+Coptosapelta,tomentosa,Digestive,flatulence; intestinal; worms,5
+Coptosapelta,tomentosa,Skin and wounds,poultice; wounds,3
+Coptosapelta,tomentosa,Fever and infection,fever,5
+Coptosapelta,tomentosa,Respiratory,cold,2
+Coptosapelta,tomentosa,Women's health,childbirth; menstruation,2
+Coptosapelta,tomentosa,Pain and inflammation,rheumatism,2
+Coptosapelta,tomentosa,Urinary and kidney,diuretic,1
+Coptosapelta,tomentosa,Parasites and bites,poison,1
+Nymphaea,nouchali,General tonic and vitality,tonic,1
+Nymphaea,nouchali,Digestive,demulcent; diarrhoea; dysentery; dyspepsia,4
+Nymphaea,nouchali,Urinary and kidney,diuretic; gonorrhoea; urinary,3
+Nymphaea,nouchali,Nervous system,narcotic,1
+Nymphaea,nouchali,Fever and infection,fever,1
+Cleome,viscosa,Pain and inflammation,rheumatism,1
+Cleome,viscosa,Nervous system,narcotic,1
+Cleome,viscosa,Skin and wounds,wounds,1
+Curcuma,aeruginosa,Respiratory,asthma; cough,2
+Curcuma,aeruginosa,Women's health,childbirth,1
+Curcuma,aeruginosa,Skin and wounds,itch; poultice,2
+Curcuma,aeruginosa,Pain and inflammation,rheumatism,1
+Curcuma,aeruginosa,Digestive,anthelmintic,1
+Pisonia,aculeata,Skin and wounds,scabies; ulcers,2
+Pisonia,aculeata,Respiratory,cough,1
+Allium,tuberosum,Digestive,intestinal; stomachic,2
+Allium,tuberosum,Fever and infection,antiseptic,2
+Allium,tuberosum,Pain and inflammation,toothache,1
+Hiptage,benghalensis,Skin and wounds,scabies; wounds,2
+Hiptage,benghalensis,Digestive,carminative,1
+Hiptage,benghalensis,General tonic and vitality,aphrodisiac,1
+Hiptage,benghalensis,Parasites and bites,insecticidal,1
+Hiptage,benghalensis,Pain and inflammation,rheumatism,1
+Hiptage,benghalensis,Respiratory,asthma,1
+Tacca,palmata,Skin and wounds,cuts; poultice; wounds,3
+Tacca,palmata,Digestive,stomachic,1
+Tacca,palmata,Women's health,menstrual,1
+Merremia,peltata,Digestive,diarrhoea; purgative; worms,4
+Merremia,peltata,Respiratory,cough,1
+Merremia,peltata,Pain and inflammation,inflammation,1
+Merremia,peltata,Women's health,uterine,1
+Merremia,peltata,Skin and wounds,poultice,1
+Barringtonia,racemosa,Parasites and bites,poison,3
+Barringtonia,racemosa,Skin and wounds,itch; poultice; sore,3
+Barringtonia,racemosa,Respiratory,asthma; bronchitis; cough,3
+Barringtonia,racemosa,Fever and infection,febrifuge,1
+Barringtonia,racemosa,Digestive,diarrhoea,1
+Barringtonia,racemosa,Eye and ENT,ophthalmia,1
+Aristolochia,tagala,General tonic and vitality,tonic,1
+Aristolochia,tagala,Digestive,carminative,1
+Aristolochia,tagala,Women's health,emmenagogue,1
+Aristolochia,tagala,Fever and infection,fever,1
+Limnophila,aromatica,Skin and wounds,wounds,1
+Baliospermum,montanum,Digestive,anthelmintic; purgative,4
+Baliospermum,montanum,Skin and wounds,poultice; wounds,3
+Baliospermum,montanum,Respiratory,asthma,1
+Baliospermum,montanum,Urinary and kidney,diuretic,1
+Baliospermum,montanum,Liver,jaundice,1
+Baliospermum,montanum,Nervous system,narcotic,1
+Baliospermum,montanum,Parasites and bites,poison,1
+Baliospermum,montanum,General tonic and vitality,stimulant,1
+Baliospermum,montanum,Pain and inflammation,rheumatism,1
+Grammatophyllum,scriptum,Digestive,dysentery; worms,2
+Pilea,microphylla,Digestive,diarrhoea; worms,2
+Pilea,microphylla,Urinary and kidney,diuretic; urinary,3
+Pilea,microphylla,Skin and wounds,bruises,1
+Pilea,microphylla,Liver,liver,1
+Pilea,microphylla,Pain and inflammation,inflammation,1
+Pilea,microphylla,General tonic and vitality,tonic,1
+Pilea,microphylla,Respiratory,asthma,1
+Capparis,micracantha,Women's health,childbirth; uterine,2
+Capparis,micracantha,General tonic and vitality,tonic,1
+Cnestis,palala,Urinary and kidney,gonorrhoea; urinary,2
+Cnestis,palala,Fever and infection,malaria,1
+Cnestis,palala,General tonic and vitality,tonic,1
+Cnestis,palala,Women's health,childbirth,1
+Cnestis,palala,Skin and wounds,poultice; scabies; wounds,3
+Cnestis,palala,Digestive,dysentery,1
+Cnestis,palala,Parasites and bites,poison,2
+Cnestis,palala,Pain and inflammation,toothache,1
+Spatholobus,ferrugineus,Women's health,childbirth; irregular menstruation; menstruation; uterine,4
+Spatholobus,ferrugineus,Respiratory,cough,1
+Spatholobus,ferrugineus,Fever and infection,fever,1
+Spatholobus,ferrugineus,Parasites and bites,insect bites,1
+Spatholobus,ferrugineus,Skin and wounds,itch,1
+Mussaenda,glabra,Liver,jaundice,1
+Mussaenda,glabra,Pain and inflammation,headache,2
+Mussaenda,glabra,Respiratory,cough,1
+Mussaenda,glabra,Skin and wounds,poultice,1
+Mussaenda,glabra,Women's health,childbirth,1
+Hyptis,brevipes,Skin and wounds,poultice; wounds,2
+Hyptis,brevipes,Women's health,childbirth,1
+Hyptis,brevipes,Digestive,diarrhoea; worms,2
+Hyptis,brevipes,Pain and inflammation,headache,1
+Ipomoea,pes-tigridis,Skin and wounds,boils,1
+Ipomoea,pes-tigridis,Digestive,purgative,1
+Indigofera,oblongifolia,Pain and inflammation,rheumatism,1
+Indigofera,oblongifolia,Liver,liver,1
+Indigofera,oblongifolia,Digestive,dysentery; purgative,2
+Indigofera,oblongifolia,Urinary and kidney,urinary,1
+Desmodium,styracifolium,Urinary and kidney,bladder; diuretic; kidney,5
+Desmodium,styracifolium,Pain and inflammation,oedema,1
+Ventilago,madraspatana,Digestive,dyspepsia; stomachic,2
+Ventilago,madraspatana,General tonic and vitality,stimulant; tonic,2
+Ventilago,madraspatana,Skin and wounds,itch,1
+Millettia,sericea,Pain and inflammation,toothache,1
+Millettia,sericea,Skin and wounds,sore; wounds,2
+Millettia,sericea,Fever and infection,fever,1
+Millettia,sericea,Urinary and kidney,urinary,1
+Millettia,sericea,Parasites and bites,poison,1
+Barringtonia,asiatica,Pain and inflammation,headache; rheumatism,2
+Barringtonia,asiatica,Parasites and bites,poison,2
+Barringtonia,asiatica,Skin and wounds,sore; wounds,3
+Barringtonia,asiatica,Respiratory,bronchitis,1
+Barringtonia,asiatica,Fever and infection,malaria,1
+Barringtonia,asiatica,Digestive,constipation,1
+Barringtonia,asiatica,Nervous system,epilepsy,1
+Cleome,gynandra,Fever and infection,febrifuge,1
+Cleome,gynandra,Respiratory,tuberculosis,1
+Cleome,chelidonii,Digestive,anthelmintic,1
+Ardisia,crenata,Eye and ENT,earache,1
+Ardisia,crenata,Fever and infection,fever,1
+Ardisia,crenata,Respiratory,cough,1
+Ardisia,crenata,Digestive,diarrhoea,1
+Ardisia,crenata,Women's health,menstrual,1
+Smilax,leucophylla,Pain and inflammation,rheumatism,1
+Smilax,leucophylla,Parasites and bites,antidote; poison,2
+Acalypha,hispida,Skin and wounds,ulcers; wounds,2
+Acalypha,hispida,Digestive,laxative,1
+Acalypha,hispida,Urinary and kidney,diuretic; gonorrhoea,2
+Acalypha,hispida,Respiratory,asthma; expectorant,2
+Leucas,lavandulifolia,Skin and wounds,poultice; wounds,2
+Euphorbia,atoto,Women's health,abortifacient; emmenagogue,2
+Euphorbia,atoto,Digestive,purgative,1
+Scaevola,taccada,Digestive,dysentery; indigestion,3
+Scaevola,taccada,Skin and wounds,poultice; sore; ulcers; wounds,4
+Scaevola,taccada,Pain and inflammation,headache; oedema,2
+Scaevola,taccada,Parasites and bites,antidote,1
+Scaevola,taccada,Respiratory,asthma; colds; cough; tuberculosis,7
+Scaevola,taccada,Fever and infection,malaria,1
+Scaevola,taccada,Eye and ENT,earache,1
+Scaevola,taccada,Cancer and tumour,cancer,1
+Scaevola,taccada,Women's health,menstrual,1
+Soulamea,amara,Fever and infection,febrifuge,1
+Soulamea,amara,Respiratory,asthma; cough,2
+Soulamea,amara,Digestive,laxative,1
+Cissus,quadrangularis,Skin and wounds,boils; burns; wounds,3
+Cissus,quadrangularis,Pain and inflammation,rheumatism,1
+Cissus,quadrangularis,Respiratory,asthma,1
+Cissus,quadrangularis,Digestive,indigestion,1
+Ficus,rumphii,Digestive,anthelmintic,1
+Ficus,rumphii,Skin and wounds,itch,1
+Ficus,rumphii,Respiratory,asthma,1
+Barringtonia,acutangula,Skin and wounds,itch; ulcers; wound; wounds,4
+Barringtonia,acutangula,Parasites and bites,poison,2
+Barringtonia,acutangula,Digestive,anthelmintic; diarrhoea; laxative; stomachic,7
+Barringtonia,acutangula,Eye and ENT,ophthalmia,1
+Barringtonia,acutangula,Respiratory,asthma; expectorant; pneumonia,3
+Barringtonia,acutangula,Fever and infection,malaria,1
+Hydrolea,zeylanica,Fever and infection,antiseptic,1
+Hydrolea,zeylanica,Skin and wounds,poultice; ulcers,2
+Hydrolea,zeylanica,Respiratory,cough,1
+Picrasma,javanica,Fever and infection,febrifuge,2
+Picrasma,javanica,Digestive,stomachic,1
+Cyperus,iria,General tonic and vitality,stimulant; tonic,2
+Cyperus,iria,Digestive,stomachic,1
+Cyperus,iria,Fever and infection,febrifuge,1
+Cyperus,iria,Pain and inflammation,rheumatism,1
+Cyperus,iria,Women's health,menstruation,1
+Cyperus,iria,Urinary and kidney,diuretic,1
+Antidesma,montanum,Fever and infection,fever; malaria,2
+Antidesma,montanum,Pain and inflammation,headache,2
+Antidesma,montanum,Urinary and kidney,diuretic,1
+Antidesma,montanum,Digestive,flatulence,1
+Antidesma,montanum,General tonic and vitality,stimulant,1
+Gynura,pseudochina,Skin and wounds,bruises; poultice; sore,4
+Gynura,pseudochina,Pain and inflammation,inflammation,1
+Gynura,pseudochina,Fever and infection,infection,1
+Gynura,pseudochina,General tonic and vitality,tonic,1
+Acacia,concinna,Pain and inflammation,headache,1
+Acacia,concinna,Fever and infection,fever,1
+Acacia,concinna,Digestive,constipation; laxative; purgative,3
+Acacia,concinna,Urinary and kidney,bladder; diuretic; kidney,3
+Scleria,pergracilis,Fever and infection,fever,1
+Scleria,pergracilis,Women's health,childbirth,1
+Macaranga,gigantea,Digestive,dysentery,1
+Macaranga,gigantea,Parasites and bites,antidote,2
+Acacia,pennata,Pain and inflammation,headache; rheumatism,2
+Acacia,pennata,Fever and infection,fever,1
+Acacia,pennata,Respiratory,cough,1
+Epipremnum,pinnatum,Pain and inflammation,rheumatism,2
+Epipremnum,pinnatum,Cancer and tumour,cancer,1
+Epipremnum,pinnatum,General tonic and vitality,tonic,1
+Epipremnum,pinnatum,Women's health,emmenagogue,1
+Epipremnum,pinnatum,Skin and wounds,bruises,1
+Epipremnum,pinnatum,Respiratory,cough,1
+Epipremnum,pinnatum,Eye and ENT,conjunctivitis,1
+Epipremnum,pinnatum,Parasites and bites,antidote; poison,3
+Ixora,chinensis,Women's health,childbirth,1
+Ixora,chinensis,Respiratory,tuberculosis,1
+Ixora,chinensis,Pain and inflammation,headache,1
+Ixora,chinensis,Cardiovascular and metabolic,hypertension,1
+Myxopyrum,nervosum,General tonic and vitality,tonic,1
+Myxopyrum,nervosum,Digestive,anthelmintic; intestinal,2
+Myxopyrum,nervosum,Fever and infection,fever,1
+Goniothalamus,macrophyllus,Respiratory,colds,1
+Goniothalamus,macrophyllus,Women's health,childbirth,1
+Allium,fistulosum,Respiratory,colds,1
+Allium,fistulosum,Skin and wounds,wounds,1
+Tournefortia,argentea,Parasites and bites,antidote,1
+Baeckea,frutescens,Women's health,childbirth; emmenagogue; menstrual,3
+Baeckea,frutescens,Fever and infection,antibacterial; antiseptic,2
+Baeckea,frutescens,Pain and inflammation,headache; rheumatism,2
+Baeckea,frutescens,Liver,jaundice,1
+Baeckea,frutescens,Digestive,dysentery; dyspepsia,2
+Baeckea,frutescens,Parasites and bites,snakebite,1
+Heynea,trijuga,General tonic and vitality,tonic,1
+Heynea,trijuga,Women's health,menstruation,1
+Voacanga,foetida,Pain and inflammation,headache,1
+Merremia,vitifolia,Fever and infection,fever; malaria,2
+Merremia,vitifolia,Digestive,stomachic,1
+Elaeocarpus,grandiflorus,Skin and wounds,ulcers,1
+Elaeocarpus,grandiflorus,General tonic and vitality,tonic,1
+Elaeocarpus,grandiflorus,Urinary and kidney,bladder; diuretic,2
+Allamanda,cathartica,Digestive,purgative,2
+Allamanda,cathartica,Parasites and bites,antidote,1
+Allamanda,cathartica,Fever and infection,febrifuge; malaria,2
+Allamanda,cathartica,Liver,jaundice,1
+Kadsura,scandens,Respiratory,expectorant,1
+Kadsura,scandens,Urinary and kidney,urinary,1
+Kadsura,scandens,Pain and inflammation,pains; rheumatism,2
+Kadsura,scandens,Digestive,diarrhoea,1
+Kadsura,scandens,Fever and infection,fever,1
+Kadsura,scandens,Women's health,menstrual,1
+Tacca,integrifolia,General tonic and vitality,aphrodisiac,1
+Curcuma,purpurascens,Skin and wounds,poultice,1
+Curcuma,purpurascens,Women's health,childbirth,1
+Ailanthus,triphysa,General tonic and vitality,tonic,1
+Ailanthus,triphysa,Women's health,childbirth,1
+Ailanthus,triphysa,Fever and infection,febrifuge,1
+Ailanthus,triphysa,Digestive,diarrhoea; dyspepsia,2
+Ailanthus,triphysa,Respiratory,bronchitis; cough,2
+Triumfetta,bartramia,Urinary and kidney,diuretic; gonorrhoea,2
+Triumfetta,bartramia,Digestive,diarrhoea; dysentery,3
+Triumfetta,bartramia,Women's health,childbirth,1
+Triumfetta,bartramia,Respiratory,colds,1
+Triumfetta,bartramia,Skin and wounds,boils,1
+Kaempferia,rotunda,Digestive,gastric,1
+Connarus,monocarpus,Skin and wounds,itch; poultice,2
+Orthosiphon,aristatus,Urinary and kidney,bladder; diuretic; kidney; urinary,5
+Orthosiphon,aristatus,Respiratory,catarrh,1
+Orthosiphon,aristatus,Cardiovascular and metabolic,diabetes,2
+Orthosiphon,aristatus,Pain and inflammation,inflammation; rheumatism,2
+Orthosiphon,aristatus,Liver,jaundice,1
+Orthosiphon,aristatus,Digestive,vomiting,1
+Mallotus,paniculatus,Skin and wounds,poultice; wounds,2
+Mallotus,paniculatus,Pain and inflammation,headache,1
+Mallotus,paniculatus,Fever and infection,fever,1
+Mallotus,paniculatus,Women's health,childbirth,1
+Gouania,leptostachya,Skin and wounds,burns; poultice; ulcers,4
+Gouania,leptostachya,Digestive,diarrhoea,1
+Aralidium,pinnatifidum,Skin and wounds,boils; poultice,2
+Aralidium,pinnatifidum,Fever and infection,fever,1
+Aralidium,pinnatifidum,Pain and inflammation,rheumatism,1
+Aralidium,pinnatifidum,Parasites and bites,poison,1
+Vernonia,patula,Respiratory,colds,1
+Vernonia,patula,General tonic and vitality,tonic,1
+Vernonia,patula,Digestive,diarrhoea,1
+Scleria,lithosperma,Women's health,childbirth,1
+Scleria,lithosperma,Fever and infection,fever,1
+Bauhinia,acuminata,Respiratory,cold; cough,3
+Bauhinia,acuminata,Pain and inflammation,headache,1
+Bauhinia,acuminata,Cardiovascular and metabolic,hypertension,1
+Leucosyke,capitellata,Respiratory,cough,1
+Leucosyke,capitellata,Pain and inflammation,headache,1
+Leucosyke,capitellata,General tonic and vitality,stimulant,1
+Leucosyke,capitellata,Digestive,diarrhoea; gastric,2
+Leucosyke,capitellata,Cardiovascular and metabolic,blood pressure; diabetes,2
+Indigofera,linifolia,Fever and infection,febrifuge,1
+Indigofera,linifolia,Skin and wounds,cuts; wounds,2
+Dendrobium,crumenatum,Skin and wounds,boils,1
+Pisonia,grandis,Skin and wounds,ulcers,1
+Pisonia,grandis,Pain and inflammation,oedema,1
+Pisonia,grandis,Digestive,dysentery,1
+Trichosanthes,tricuspidata,Digestive,diarrhoea; purgative,3
+Trichosanthes,tricuspidata,Skin and wounds,boils; poultice,2
+Leea,rubra,Skin and wounds,poultice; wounds,2
+Leea,rubra,Digestive,dysentery,1
+Leea,rubra,Pain and inflammation,arthritis; rheumatism,2
+Psychotria,viridiflora,Skin and wounds,itch; scabies,2
+Uvaria,purpurea,Women's health,childbirth,1
+Mallotus,floribundus,Fever and infection,fever,1
+Mallotus,floribundus,Women's health,childbirth,1
+Ochrosia,oppositifolia,Digestive,stomachic,1
+Hunteria,zeylanica,Skin and wounds,boils,1
+Hunteria,zeylanica,General tonic and vitality,tonic,1
+Hunteria,zeylanica,Digestive,stomachic,2
+Hunteria,zeylanica,Fever and infection,fever,1
+Deeringia,amaranthoides,Digestive,dysentery,1
+Deeringia,amaranthoides,Pain and inflammation,headache,2
+Deeringia,amaranthoides,Skin and wounds,cut,1
+Deeringia,amaranthoides,Fever and infection,fever,1
+Macaranga,hypoleuca,Fever and infection,febrifuge,1
+Macaranga,hypoleuca,Respiratory,expectorant,1
+Polygala,paniculata,Urinary and kidney,gonorrhoea,1
+Polygala,paniculata,Skin and wounds,wounds,1
+Zanthoxylum,avicennae,General tonic and vitality,tonic,1
+Zanthoxylum,avicennae,Skin and wounds,dermatitis,1
+Wahlenbergia,marginata,Respiratory,cough,1
+Ipomoea,nil,Digestive,anthelmintic; constipation; purgative,3
+Ipomoea,nil,Urinary and kidney,diuretic,1
+Ipomoea,nil,Women's health,abortifacient; emmenagogue; menstruation,3
+Symplocos,odoratissima,Women's health,childbirth,1
+Combretum,sundaicum,Skin and wounds,boils,1
+Combretum,sundaicum,Pain and inflammation,headache,1
+Alstonia,macrophylla,Fever and infection,antimalarial; febrifuge,2
+Alstonia,macrophylla,General tonic and vitality,tonic,2
+Alstonia,macrophylla,Women's health,emmenagogue,2
+Alstonia,macrophylla,Pain and inflammation,headache,1
+Xyris,complanata,Skin and wounds,itch,1
+Curcuma,heyneana,Digestive,anthelmintic,1
+Gynura,procumbens,Urinary and kidney,kidney,1
+Gynura,procumbens,Pain and inflammation,pains; rheumatism,3
+Gynura,procumbens,Digestive,dysentery,1
+Gynura,procumbens,Fever and infection,febrifuge,1
+Alpinia,malaccensis,Skin and wounds,wounds,1
+Alpinia,malaccensis,Parasites and bites,poison,1
+Sarcolobus,globosus,Pain and inflammation,rheumatism,1
+Sarcolobus,globosus,Fever and infection,fever,1
+Sarcolobus,globosus,Parasites and bites,poison,2
+Canthium,horridum,Skin and wounds,wounds,1
+Canthium,horridum,Fever and infection,fever,1
+Canthium,horridum,Women's health,childbirth; emmenagogue,2
+Canthium,horridum,Digestive,dysentery,1
+Breynia,cernua,Skin and wounds,poultice; ulcers,2
+Breynia,cernua,Pain and inflammation,pains,1
+Breynia,cernua,Digestive,dysentery,1
+Breynia,cernua,Fever and infection,malaria,1
+Apostasia,nuda,Skin and wounds,poultice; sore,2
+Apostasia,nuda,Digestive,diarrhoea,1
+Apostasia,nuda,Cardiovascular and metabolic,diabetes,1
+Ixora,grandifolia,Women's health,childbirth,1
+Acalypha,siamensis,Urinary and kidney,diuretic; kidney,2
+Acalypha,siamensis,Digestive,intestinal; worms,2
+Acalypha,siamensis,Fever and infection,febrifuge; fever,2
+Acalypha,siamensis,Respiratory,expectorant,1
+Acalypha,siamensis,Skin and wounds,poultice,1
+Aerva,sanguinolenta,Women's health,menstruation,1
+Aglaia,edulis,Digestive,diarrhoea,1
+Elaeocarpus,floribundus,Skin and wounds,poultice; ulcers,2
+Elaeocarpus,floribundus,General tonic and vitality,tonic,1
+Tetracera,macrophylla,Skin and wounds,itch; poultice; ulcers,3
+Tetracera,macrophylla,Parasites and bites,antidote; poison,2
+Tabernaemontana,divaricata,Respiratory,cough,1
+Tabernaemontana,divaricata,Skin and wounds,sore; wounds,2
+Tabernaemontana,divaricata,Digestive,diarrhoea; intestinal,2
+Tabernaemontana,divaricata,Fever and infection,fever,1
+Tabernaemontana,divaricata,Pain and inflammation,anodyne; inflammation; toothache,3
+Prismatomeris,tetrandra,Skin and wounds,poultice; wounds,2
+Prismatomeris,tetrandra,Digestive,vomiting,1
+Prismatomeris,tetrandra,Parasites and bites,poison; snakebite,2
+Prismatomeris,tetrandra,Respiratory,bronchitis,1
+Prismatomeris,tetrandra,General tonic and vitality,tonic,2
+Prismatomeris,tetrandra,Women's health,childbirth,1
+Rourea,mimosoides,Respiratory,colds,1
+Rourea,mimosoides,Digestive,diarrhoea,1
+Rourea,mimosoides,Urinary and kidney,diuretic,1
+Rourea,mimosoides,General tonic and vitality,aphrodisiac; stimulant,2
+Rafflesia,patma,Women's health,childbirth,1
+Rafflesia,patma,General tonic and vitality,aphrodisiac,1
+Ipomoea,congesta,Digestive,dysentery,1
+Acanthus,ebracteatus,Respiratory,cough,1
+Acanthus,ebracteatus,Skin and wounds,boils,2
+Borreria,laevis,Pain and inflammation,toothache,1
+Borreria,laevis,Respiratory,colds,1
+Borreria,laevis,Women's health,emmenagogue,1
+Borreria,laevis,Skin and wounds,burns; cuts,2
+Gonocaryum,gracile,Skin and wounds,bruises; poultice,2
+Gonocaryum,gracile,Pain and inflammation,headache; pains,2
+Gonocaryum,gracile,Liver,jaundice,1
+Rinorea,anguifera,Women's health,childbirth,1
+Rinorea,anguifera,Digestive,diarrhoea; purgative,2
+Calophyllum,soulattri,Pain and inflammation,pains; rheumatism,2
+Calophyllum,soulattri,Skin and wounds,wounds,1
+Calophyllum,soulattri,Parasites and bites,poison,1
+Connarus,grandis,Respiratory,asthma,1
+Xyris,indica,Skin and wounds,itch,1
+Cocculus,laurifolius,Cardiovascular and metabolic,hypertension,1
+Cocculus,laurifolius,Pain and inflammation,headache,1
+Cocculus,laurifolius,Digestive,abdominal pain,1
+Capparis,sepiaria,General tonic and vitality,tonic,1
+Barringtonia,macrostachya,Skin and wounds,sore,1
+Macrosolen,cochinchinensis,Skin and wounds,poultice,1
+Macrosolen,cochinchinensis,Pain and inflammation,headache,1
+Macrosolen,cochinchinensis,Respiratory,cough,1
+Alchornea,rugosa,Fever and infection,fever,1
+Alchornea,rugosa,Digestive,purgative,1
+Alchornea,rugosa,Women's health,abortifacient,1
+Connarus,semidecandrus,Fever and infection,fever,1
+Connarus,semidecandrus,Digestive,anthelmintic; laxative,2
+Connarus,semidecandrus,Women's health,uterine,1
+Connarus,semidecandrus,General tonic and vitality,tonic,1
+Derris,scandens,Parasites and bites,poison,1
+Derris,scandens,Urinary and kidney,diuretic,1
+Derris,scandens,Digestive,laxative,1
+Derris,scandens,Respiratory,cold; expectorant,2
+Derris,scandens,Women's health,emmenagogue,1
+Bauhinia,tomentosa,Skin and wounds,poultice; ulcers; wounds,3
+Bauhinia,tomentosa,Pain and inflammation,inflammation,1
+Bauhinia,tomentosa,Liver,liver,1
+Bauhinia,tomentosa,Urinary and kidney,diuretic,1
+Bauhinia,tomentosa,General tonic and vitality,aphrodisiac; tonic,2
+Borreria,hispida,Pain and inflammation,headache; toothache,2
+Borreria,hispida,Skin and wounds,wounds,1
+Borreria,hispida,Fever and infection,febrifuge,1
+Borreria,hispida,Digestive,demulcent; diarrhoea; dysentery,3
+Lunasia,amara,Parasites and bites,poison,1
+Setaria,palmifolia,Women's health,childbirth; lactation,2
+Setaria,palmifolia,Digestive,diarrhoea; vomiting,4
+Setaria,palmifolia,Fever and infection,fever,2
+Setaria,palmifolia,Respiratory,colds,1
+Setaria,palmifolia,Pain and inflammation,rheumatism; toothache,3
+Setaria,palmifolia,Urinary and kidney,diuretic,1
+Setaria,palmifolia,Cardiovascular and metabolic,diabetes,1
+Setaria,palmifolia,Skin and wounds,boils,1
+Setaria,palmifolia,Parasites and bites,insecticidal,1
+Hoya,multiflora,Urinary and kidney,diuretic,1
+Hoya,multiflora,Skin and wounds,poultice,1
+Hoya,multiflora,Pain and inflammation,rheumatism,1
+Cassia,javanica,Digestive,laxative,1
+Lobelia,angulata,Skin and wounds,boils; scabies,2
+Mapania,cuspidata,Fever and infection,fever,1
+Mapania,cuspidata,General tonic and vitality,tonic,1
+Mapania,cuspidata,Women's health,childbirth,1
+Mapania,cuspidata,Parasites and bites,antidote; poison,2
+Rauvolfia,verticillata,Nervous system,sedative,1
+Rauvolfia,verticillata,Skin and wounds,wounds,1
+Luvunga,sarmentosa,Pain and inflammation,rheumatism; toothache,2
+Allium,chinense,Fever and infection,fever,1
+Glochidion,obscurum,Digestive,diarrhoea; dysentery,2
+Glochidion,obscurum,Women's health,childbirth,1
+Barleria,lupulina,Pain and inflammation,toothache,1
+Barleria,lupulina,Skin and wounds,poultice,1
+Curcuma,mangga,Fever and infection,fever,1
+Curcuma,mangga,Women's health,childbirth,1
+Macaranga,tanarius,Fever and infection,fever,2
+Macaranga,tanarius,Digestive,dysentery,1
+Macaranga,tanarius,Women's health,abortifacient,1
+Macaranga,tanarius,Skin and wounds,wounds,1
+Excoecaria,cochinchinensis,Parasites and bites,poison,1
+Pisonia,umbellifera,Pain and inflammation,pains,1
+Ficus,wassa,Digestive,dysentery,1
+Diospyros,multiflora,Parasites and bites,poison,2
+Adenia,heterophylla,Parasites and bites,poison,2
+Amomum,gracile,Digestive,indigestion; nausea,2
+Lindernia,antipoda,Digestive,anthelmintic; diarrhoea,2
+Lindernia,antipoda,Women's health,emmenagogue,1
+Argyreia,mollis,Digestive,stomachic,1
+Argyreia,mollis,Pain and inflammation,inflammation,1
+Argyreia,mollis,Skin and wounds,boils,1
+Alstonia,angustifolia,Fever and infection,fever; malaria,2
+Bauhinia,fulva,Fever and infection,febrifuge,1
+Bauhinia,fulva,Respiratory,cough,1
+Cyclea,barbata,Fever and infection,fever,1
+Cyperus,brevifolius,Skin and wounds,poultice,1
+Cyperus,brevifolius,Urinary and kidney,diuretic,1
+Cyperus,brevifolius,Fever and infection,malaria,1
+Cyperus,brevifolius,Digestive,diarrhoea,1
+Homalanthus,populneus,Skin and wounds,wounds,1
+Homalanthus,populneus,Fever and infection,fever,1
+Homalanthus,populneus,Women's health,childbirth,1
+Homalanthus,populneus,Parasites and bites,poison,1
+Asystasia,nemorum,Respiratory,cough,1
+Dalbergia,pinnata,Skin and wounds,poultice; scabies,2
+Dalbergia,pinnata,Fever and infection,fever,1
+Tinomiscium,petiolare,Pain and inflammation,rheumatism,1
+Tinomiscium,petiolare,Fever and infection,fever,1
+Tinomiscium,petiolare,Skin and wounds,cuts,1
+Tinomiscium,petiolare,Parasites and bites,poison,2
+Merremia,hederacea,Skin and wounds,poultice,1
+Striga,asiatica,Skin and wounds,ulcers,1
+Striga,asiatica,Women's health,contraceptive,1
+Striga,asiatica,Digestive,intestinal; stomachic,2
+Striga,asiatica,Pain and inflammation,headache,1
+Biophytum,reinwardtii,Fever and infection,fever,1
+Aristolochia,rumphii,Nervous system,spasm,1
+Aristolochia,rumphii,Digestive,constipation,1
+Aristolochia,rumphii,Fever and infection,fever,1
+Labisia,pumila,General tonic and vitality,tonic,1
+Labisia,pumila,Digestive,dysentery; flatulence,2
+Labisia,pumila,Urinary and kidney,gonorrhoea,1
+Eriosema,chinense,Urinary and kidney,diuretic,1
+Eriosema,chinense,General tonic and vitality,tonic,1
+Eriosema,chinense,Digestive,diarrhoea,1
+Eriosema,chinense,Women's health,menstrual,1
+Eriosema,chinense,Respiratory,cold,1
+Harrisonia,perforata,Digestive,diarrhoea; dysentery,5
+Harrisonia,perforata,Skin and wounds,itch; wound,2
+Eranthemum,viscidum,Digestive,indigestion,1
+Epiphyllum,oxypetalum,Skin and wounds,boils; wounds,2
+Epiphyllum,oxypetalum,Respiratory,cough; expectorant; tuberculosis,4
+Epiphyllum,oxypetalum,Women's health,uterine,1
+Epiphyllum,oxypetalum,General tonic and vitality,tonic,1
+Lophopyxis,maingayi,Parasites and bites,antidote; poison,2
+Lophopyxis,maingayi,Skin and wounds,boils; wounds,2
+Lophopyxis,maingayi,Digestive,diarrhoea,1
+Dendrophthoe,pentandra,Skin and wounds,poultice; ulcers,2
+Dendrophthoe,pentandra,Women's health,childbirth,1
+Dendrophthoe,pentandra,Cardiovascular and metabolic,hypertension,1
+Dendrophthoe,pentandra,Respiratory,cough,1
+Rafflesia,hasseltii,Women's health,childbirth,1
+Erycibe,malaccensis,Skin and wounds,poultice,1
+Erycibe,malaccensis,Pain and inflammation,headache,1
+Vitex,glabrata,Digestive,anthelmintic; intestinal,2
+Scleria,levis,Respiratory,cough,1
+Impatiens,platypetala,Urinary and kidney,diuretic,1
+Cayratia,japonica,Fever and infection,fever; malaria,3
+Cayratia,japonica,Parasites and bites,antidote,1
+Caesalpinia,decapetala,Digestive,anthelmintic; purgative,2
+Caesalpinia,decapetala,Skin and wounds,burns,1
+Caesalpinia,decapetala,Pain and inflammation,analgesic; neuralgia,2
+Caesalpinia,decapetala,Fever and infection,antimalarial,1
+Glochidion,littorale,Digestive,dysentery,1
+Glochidion,littorale,Women's health,childbirth,2
+Macaranga,involucrata,Urinary and kidney,gonorrhoea,1
+Macaranga,involucrata,Digestive,dysentery,1
+Derris,robusta,Parasites and bites,insecticidal,1
+Curcuma,petiolata,Fever and infection,fever,1
+Aeginetia,indica,Cardiovascular and metabolic,diabetes,2
+Aeginetia,indica,Liver,liver,1
+Clematis,papuasica,Respiratory,cold; cough,2
+Clematis,papuasica,Fever and infection,febrifuge,1
+Ficus,ampelas,Digestive,diarrhoea,1
+Ficus,ampelas,Urinary and kidney,diuretic,1
+Schefflera,elliptica,Pain and inflammation,toothache,1
+Borreria,ocymoides,Skin and wounds,eczema; poultice; wounds,3
+Borreria,ocymoides,Pain and inflammation,headache,1
+Borreria,ocymoides,Digestive,worms,1
+Gouania,javanica,Skin and wounds,poultice,1
+Cyperus,diffusus,Pain and inflammation,analgesic,1
+Cyperus,diffusus,Urinary and kidney,diuretic,1
+Fimbristylis,miliacea,Skin and wounds,poultice,1
+Fimbristylis,miliacea,Fever and infection,fever,1
+Glochidion,molle,Digestive,dysentery,1
+Polyalthia,hypoleuca,Women's health,childbirth,1
+Adenia,cordifolia,Eye and ENT,conjunctivitis,1
+Ipomoea,carnea,Digestive,purgative,1
+Rauvolfia,sumatrana,Digestive,dysentery,1
+Rauvolfia,sumatrana,Fever and infection,antimalarial,1
+Ficus,adenosperma,Skin and wounds,scabies,1
+Ficus,adenosperma,Fever and infection,malaria,1
+Merremia,tuberosa,Digestive,purgative,1
+Clematis,javana,Skin and wounds,wounds,1
+Clematis,javana,General tonic and vitality,tonic,1
+Glochidion,rubrum,Respiratory,cough; expectorant,2
+Ipomoea,aculeata,Digestive,purgative,1
+Ipomoea,aculeata,Skin and wounds,ulcers,1
+Scleria,sumatrensis,Urinary and kidney,gonorrhoea,1
+Hoya,rumphii,Urinary and kidney,gonorrhoea,1
+Hoya,diversifolia,Pain and inflammation,rheumatism,1
+Beilschmiedia,madang,Fever and infection,antimalarial,1
+Acriopsis,javanica,Fever and infection,fever,1
+Clematis,smilacifolia,Skin and wounds,itch,1
+Myrmecodia,tuberosa,Skin and wounds,poultice,1
+Myrmecodia,tuberosa,Pain and inflammation,headache,1
+Amomum,hochreutineri,Skin and wounds,poultice,1
+Styphnolobium,japonicum,Cardiovascular and metabolic,hypertension,1
+Adenostemma,viscosum,Skin and wounds,boils; itch; poultice; sore; ulcers,7
+Adenostemma,viscosum,Pain and inflammation,headache; inflammation; oedema; toothache,4
+Adenostemma,viscosum,Digestive,diarrhoea; dysentery,2
+Adenostemma,viscosum,Fever and infection,fever,1
+Adenostemma,viscosum,Women's health,childbirth,1
+Adenostemma,viscosum,Respiratory,cough; pneumonia,2
+Ayapana,triplinervis,Digestive,constipation; diarrhoea; laxative,3
+Ayapana,triplinervis,General tonic and vitality,stimulant; tonic,5
+Ayapana,triplinervis,Skin and wounds,wounds,1
+Ayapana,triplinervis,Parasites and bites,antidote,1
+Ayapana,triplinervis,Women's health,menstruation,1
+Ayapana,triplinervis,Respiratory,colds; pneumonia,2
+Flemingia,macrophylla,Skin and wounds,ulcers,1
+Picria,fel-terrae,Women's health,emmenagogue,2
+Picria,fel-terrae,General tonic and vitality,stimulant; tonic,2
+Picria,fel-terrae,Urinary and kidney,diuretic,1
+Picria,fel-terrae,Digestive,nausea; stomachic,2
+Picria,fel-terrae,Liver,liver,1
+Picria,fel-terrae,Skin and wounds,itch; poultice; wounds,4
+Picria,fel-terrae,Fever and infection,fever; malaria,3
+Picria,fel-terrae,Respiratory,cough; whooping cough,2
+Picria,fel-terrae,Pain and inflammation,pains,1
+Pogostemon,auricularius,Skin and wounds,poultice; sore,3
+Pogostemon,auricularius,Digestive,carminative; diarrhoea; flatulence; worms,4
+Pogostemon,auricularius,Urinary and kidney,diuretic; kidney,3
+Pogostemon,auricularius,Fever and infection,malaria,1
+Pogostemon,auricularius,Pain and inflammation,rheumatism,2
+Pogostemon,auricularius,Women's health,menstruation,1
+Hyptis,spicigera,Fever and infection,febrifuge,1
+Hyptis,spicigera,Respiratory,bronchitis; cough; expectorant,4
+Hyptis,spicigera,Pain and inflammation,headache,1
+Hyptis,spicigera,Digestive,dysentery,1
+Hyptis,spicigera,Skin and wounds,wounds,1
+Hyptis,spicigera,Eye and ENT,ophthalmia,1
+Parameria,laevigata,Women's health,childbirth; emmenagogue,2
+Parameria,laevigata,Skin and wounds,wound; wounds,4
+Parameria,laevigata,Respiratory,tuberculosis,1
+Parameria,laevigata,Digestive,stomachic,1
+Parameria,laevigata,Fever and infection,febrifuge,1
+Parameria,laevigata,General tonic and vitality,tonic,1
+Parameria,laevigata,Pain and inflammation,rheumatism,1
+Melissa,axillaris,Pain and inflammation,headache; migraine,2
+Melissa,axillaris,Digestive,dysentery; dyspepsia,2
+Melissa,axillaris,General tonic and vitality,tonic,1
+Melissa,axillaris,Nervous system,antispasmodic; sedative,3
+Melissa,axillaris,Skin and wounds,bruises; ulcers; wounds,3
+Excoecaria,indica,Parasites and bites,poison,2
+Excoecaria,indica,Skin and wounds,burns,1
+Excoecaria,indica,Fever and infection,febrifuge,1
+Excoecaria,indica,Urinary and kidney,gonorrhoea,1
+Excoecaria,indica,Digestive,purgative,1
+Excoecaria,indica,Pain and inflammation,toothache,1
+Aquilaria,cumingiana,Skin and wounds,smallpox; wounds,2
+Aquilaria,cumingiana,Cancer and tumour,cancer,1
+Aquilaria,cumingiana,Nervous system,sedative,1
+Aquilaria,cumingiana,Respiratory,asthma,1
+Aquilaria,cumingiana,Digestive,carminative; diarrhoea; nausea; stomachic; vomiting,5
+Aquilaria,cumingiana,General tonic and vitality,aphrodisiac; tonic,2
+Aquilaria,cumingiana,Women's health,childbirth,1
+Aquilaria,cumingiana,Pain and inflammation,pains; rheumatism,2
+Operculina,turphetum,Digestive,intestinal; purgative; worms,4
+Operculina,turphetum,Urinary and kidney,bladder; diuretic,2
+Operculina,turphetum,Pain and inflammation,pains; rheumatism,3
+Operculina,turphetum,Liver,jaundice,1
+Operculina,turphetum,Women's health,childbirth; parturition,2
+Operculina,turphetum,General tonic and vitality,tonic,1
+Melanolepis,multiglandulosa,Skin and wounds,poultice,1
+Melanolepis,multiglandulosa,Respiratory,chest pain; cold; cough; tuberculosis,4
+Melanolepis,multiglandulosa,Fever and infection,fever,1
+Melanolepis,multiglandulosa,Digestive,constipation,1
+Basilicum,polystachyon,Nervous system,epilepsy; sedative,3
+Basilicum,polystachyon,Pain and inflammation,headache; neuralgia; rheumatism,3
+Basilicum,polystachyon,Women's health,childbirth; parturition,2
+Basilicum,polystachyon,Respiratory,cough,1
+Basilicum,polystachyon,Digestive,flatulence,1
+Basilicum,polystachyon,Skin and wounds,burn,1
+Plectranthus,scutellarioides,Digestive,anthelmintic; diarrhoea; dyspepsia,3
+Plectranthus,scutellarioides,Urinary and kidney,urinary,1
+Plectranthus,scutellarioides,Women's health,emmenagogue,1
+Plectranthus,scutellarioides,Skin and wounds,boils; bruises; cuts; smallpox,4
+Plectranthus,scutellarioides,Nervous system,sedative,1
+Plectranthus,scutellarioides,Liver,liver,1
+Plectranthus,scutellarioides,Eye and ENT,ophthalmia,1
+Plectranthus,scutellarioides,Pain and inflammation,headache,1
+Hypoestes,polythyrsa,Digestive,anthelmintic; intestinal; worms,3
+Hypoestes,polythyrsa,Skin and wounds,poultice,1
+Hypoestes,polythyrsa,Respiratory,cough,1
+Hypoestes,polythyrsa,Liver,hepatic,1
+Gentiana,quadrifaria,Digestive,dysentery; intestinal,3
+Gentiana,quadrifaria,Cardiovascular and metabolic,diabetic,1
+Gentiana,quadrifaria,Fever and infection,fever,1
+Gentiana,quadrifaria,Liver,jaundice; liver,2
+Gentiana,quadrifaria,Skin and wounds,sore,1
+Gentiana,quadrifaria,Eye and ENT,ophthalmia,1
+Gentiana,quadrifaria,Pain and inflammation,inflammation,1
+Codonopsis,javanica,Digestive,diarrhoea; dyspepsia; stomachic,3
+Codonopsis,javanica,Respiratory,cough; expectorant,2
+Codonopsis,javanica,Urinary and kidney,diuretic,1
+Codonopsis,javanica,General tonic and vitality,tonic,2
+Codonopsis,javanica,Liver,jaundice,1
+Codonopsis,javanica,Pain and inflammation,oedema,1
+Codonopsis,javanica,Women's health,lactation,1
+Phyllodium,pulchellum,Skin and wounds,ulcers,1
+Phyllodium,pulchellum,Liver,liver,1
+Phyllodium,pulchellum,Pain and inflammation,toothache,1
+Phyllodium,pulchellum,Parasites and bites,antidote,1
+Phyllodium,pulchellum,Digestive,diarrhoea,1
+Alpinia,zerumbet,Digestive,carminative; diarrhoea; dyspepsia; flatulence; stomachic; vomiting,8
+Alpinia,zerumbet,Fever and infection,malaria,1
+Alpinia,zerumbet,General tonic and vitality,tonic,1
+Alpinia,zerumbet,Nervous system,sedative,1
+Alpinia,zerumbet,Respiratory,cold,1
+Cayratia,trifolia,Skin and wounds,boils; itch; ulcers,3
+Cayratia,trifolia,Fever and infection,fever,2
+Cayratia,trifolia,Respiratory,expectorant,1
+Cayratia,trifolia,Digestive,carminative,1
+Cayratia,trifolia,Pain and inflammation,inflammation,1
+Clerodendrum,viscosum,Parasites and bites,antidote,1
+Clerodendrum,viscosum,Digestive,dysentery; intestinal,2
+Clerodendrum,viscosum,Skin and wounds,boils; burns; poultice; ulcers,5
+Clerodendrum,viscosum,Urinary and kidney,diuretic; kidney,2
+Clerodendrum,viscosum,Fever and infection,antiseptic,1
+Clerodendrum,viscosum,Women's health,menstrual,1
+Clerodendrum,viscosum,Liver,jaundice,1
+Dendrolobium,umbellatum,Fever and infection,fever; malaria,2
+Dendrolobium,umbellatum,General tonic and vitality,tonic,1
+Dendrolobium,umbellatum,Women's health,childbirth; irregular menstruation; menstruation,3
+Dendrolobium,umbellatum,Urinary and kidney,gonorrhoea,1
+Zehneria,indica,Pain and inflammation,inflammation; rheumatism,3
+Zehneria,indica,Urinary and kidney,diuretic; urinary,2
+Zehneria,indica,Skin and wounds,burns; eczema,2
+Zehneria,indica,Digestive,dysentery,1
+Alstonia,spectabilis,Respiratory,asthma; cough,2
+Alstonia,spectabilis,Skin and wounds,sore; ulcers,2
+Alstonia,spectabilis,Fever and infection,fever,1
+Alstonia,spectabilis,Women's health,abortifacient,1
+Conyza,sumatrensis,Skin and wounds,poultice,2
+Conyza,sumatrensis,Pain and inflammation,headache; rheumatism,2
+Conyza,sumatrensis,Fever and infection,febrifuge,1
+Conyza,sumatrensis,Eye and ENT,ophthalmia,1
+Conyza,sumatrensis,Nervous system,epilepsy,1
+Conyza,sumatrensis,Respiratory,asthma; tuberculosis,2
+Hemigraphis,alternata,Urinary and kidney,diuretic; venereal,2
+Hemigraphis,alternata,Skin and wounds,wounds,1
+Hemigraphis,alternata,Women's health,menstruation; parturition,2
+Hemigraphis,alternata,Digestive,dysentery,1
+Zanthoxylum,rhetsa,Pain and inflammation,pains; rheumatism; toothache,4
+Zanthoxylum,rhetsa,Digestive,dyspepsia,1
+Zanthoxylum,rhetsa,Respiratory,asthma; bronchitis,2
+Zanthoxylum,rhetsa,General tonic and vitality,stimulant,1
+Zanthoxylum,rhetsa,Fever and infection,antiseptic,1
+Carmona,retusa,Digestive,dysentery; stomachic,2
+Carmona,retusa,Respiratory,cough,2
+Carmona,retusa,Fever and infection,febrifuge,1
+Carmona,retusa,Women's health,childbirth,1
+Carmona,retusa,Parasites and bites,antidote,1
+Premna,serratifolia,Urinary and kidney,diuretic,1
+Premna,serratifolia,Digestive,flatulence; stomachic,2
+Premna,serratifolia,Fever and infection,febrifuge; fever,3
+Premna,serratifolia,Pain and inflammation,arthritis; headache; neuralgia,3
+Premna,serratifolia,Respiratory,cough,1
+Tadehagi,triquetrum,Skin and wounds,bruises; poultice,2
+Tadehagi,triquetrum,Fever and infection,febrifuge,1
+Tadehagi,triquetrum,Urinary and kidney,kidney; urinary,2
+Tadehagi,triquetrum,Digestive,intestinal,1
+Tadehagi,triquetrum,Respiratory,tuberculosis,1
+Ancistrocladus,tectorius,Digestive,dysentery; laxative,2
+Ancistrocladus,tectorius,Fever and infection,malaria,2
+Ancistrocladus,tectorius,Cardiovascular and metabolic,circulation,1
+Ancistrocladus,tectorius,Urinary and kidney,kidney,1
+Uncaria,lanosa,Skin and wounds,ulcers; wounds,2
+Uncaria,lanosa,Pain and inflammation,inflammation,1
+Uncaria,lanosa,Digestive,diarrhoea,1
+Uncaria,lanosa,Urinary and kidney,bladder,1
+Rhus,chinensis,Digestive,diarrhoea; dysentery; intestinal; worms,5
+Rhus,chinensis,Skin and wounds,burns,1
+Callicarpa,candicans,Skin and wounds,boils; ulcers; wounds,4
+Callicarpa,candicans,Pain and inflammation,swelling,1
+Callicarpa,candicans,Women's health,emmenagogue; parturition,2
+Callicarpa,candicans,Parasites and bites,poison,1
+Callicarpa,candicans,Respiratory,asthma,1
+Senna,tora,Digestive,laxative; purgative,2
+Senna,tora,Respiratory,cough,1
+Senna,tora,Skin and wounds,scabies,1
+Senna,tora,Urinary and kidney,diuretic,1
+Senna,tora,Nervous system,insomnia,1
+Senna,tora,Cardiovascular and metabolic,hypertension,1
+Senna,tora,Eye and ENT,ophthalmia,1
+Tabernaemontana,rostrata,Skin and wounds,eczema; itch; poultice,3
+Tabernaemontana,rostrata,Parasites and bites,poison,1
+Tabernaemontana,rostrata,Digestive,diarrhoea; dysentery,3
+Dichrocephala,integrifolia,Urinary and kidney,diuretic,1
+Dichrocephala,integrifolia,Skin and wounds,poultice; ulcers; wounds,3
+Dichrocephala,integrifolia,Fever and infection,antiviral,1
+Gymnema,inodorum,Parasites and bites,antidote,1
+Gymnema,inodorum,Skin and wounds,poultice,1
+Gymnema,inodorum,Respiratory,tuberculosis,1
+Gymnema,inodorum,Cardiovascular and metabolic,diabetes,1
+Gymnema,inodorum,Pain and inflammation,arthritis,1
+Jasminum,elongatum,Women's health,childbirth,1
+Jasminum,elongatum,Fever and infection,febrifuge; fever,2
+Jasminum,elongatum,Skin and wounds,poultice,1
+Jasminum,elongatum,Pain and inflammation,headache,1
+Jasminum,elongatum,Digestive,intestinal,1
+Jasminum,elongatum,Urinary and kidney,bladder; kidney,2
+Jasminum,elongatum,Respiratory,catarrh,1
+Cyperus,kyllingia,Parasites and bites,antidote,1
+Cyperus,kyllingia,Digestive,diarrhoea; dysentery,2
+Cyperus,kyllingia,Skin and wounds,poultice; sore; ulcers,4
+Cyperus,kyllingia,Urinary and kidney,diuretic,1
+Cyperus,kyllingia,Fever and infection,fever,1
+Cyperus,kyllingia,Women's health,abortifacient,1
+Fatoua,villosa,Women's health,childbirth; irregular menstruation; menstruation,3
+Fatoua,villosa,Urinary and kidney,diuretic,1
+Dipteracanthus,repens,Skin and wounds,boils; cuts; poultice; sore; ulcers,5
+Dipteracanthus,repens,Pain and inflammation,anodyne; toothache,2
+Dipteracanthus,repens,Respiratory,cough,1
+Trichosanthes,ovigera,Digestive,intestinal,1
+Trichosanthes,ovigera,Liver,jaundice,1
+Trichosanthes,ovigera,Urinary and kidney,diuretic,1
+Trichosanthes,ovigera,Pain and inflammation,inflammation,1
+Trichosanthes,ovigera,Respiratory,expectorant,1
+Ficus,copiosa,Skin and wounds,boils,1
+Ficus,copiosa,Parasites and bites,antidote; poison,2
+Medinilla,radicans,Digestive,dysentery,1
+Medinilla,radicans,Skin and wounds,poultice; wounds,2
+Ludwigia,octovalvis,Pain and inflammation,analgesic; headache; pains,3
+Ludwigia,octovalvis,Digestive,carminative; diarrhoea; laxative,3
+Alstonia,spatulata,Cardiovascular and metabolic,diabetes,1
+Indorouchera,griffithiana,Pain and inflammation,headache,1
+Indorouchera,griffithiana,Fever and infection,fever; malaria,2
+Indorouchera,griffithiana,Parasites and bites,poison,1
+Indorouchera,griffithiana,Skin and wounds,cut,1
+Agelaea,macrophylla,Pain and inflammation,rheumatism,1
+Agelaea,macrophylla,General tonic and vitality,aphrodisiac,1
+Agelaea,macrophylla,Skin and wounds,cuts; poultice; wounds,3
+Ardisia,sanguinolenta,Digestive,diarrhoea,2
+Ardisia,sanguinolenta,Respiratory,cough,1
+Ardisia,sanguinolenta,Women's health,childbirth,1
+Ardisia,sanguinolenta,Pain and inflammation,rheumatism,1
+Ardisia,sanguinolenta,Urinary and kidney,gonorrhoea,1
+Ardisia,sanguinolenta,Liver,liver,1
+Ardisia,sanguinolenta,Fever and infection,fever,1
+Alstonia,angustiloba,Fever and infection,fever,1
+Alstonia,angustiloba,Skin and wounds,boils,1
+Alstonia,angustiloba,Pain and inflammation,toothache,1
+Psychotria,curviflora,Fever and infection,fever; malaria,2
+Psychotria,curviflora,Respiratory,cough,1
+Psychotria,curviflora,Women's health,childbirth,2
+Psychotria,curviflora,Skin and wounds,cuts; poultice; ulcers; wounds,5
+Psychotria,curviflora,Pain and inflammation,headache,1
+Symplocos,cochinchinensis,Digestive,diarrhoea,1
+Symplocos,cochinchinensis,Urinary and kidney,gonorrhoea,1
+Cuscuta,australis,Nervous system,sedative,2
+Cuscuta,australis,General tonic and vitality,tonic,1
+Cuscuta,australis,Urinary and kidney,urinary,2
+Cuscuta,australis,Cardiovascular and metabolic,diabetes,1
+Croton,argyratus,Digestive,diarrhoea,1
+Croton,argyratus,Skin and wounds,ulcers,2
+Croton,argyratus,Fever and infection,fever,1
+Croton,argyratus,Women's health,childbirth,1
+Dischidia,imbricata,Skin and wounds,burns; poultice; skin infection; wounds,4
+Dischidia,imbricata,Urinary and kidney,gonorrhoea,1
+Dischidia,imbricata,Fever and infection,infection,1
+Acalypha,grandis,Skin and wounds,boils; poultice,2
+Acalypha,grandis,Digestive,diarrhoea; dysentery,2
+Oldenlandia,capitellata,Skin and wounds,bruises; ulcers,3
+Oldenlandia,capitellata,Pain and inflammation,rheumatism,1
+Oldenlandia,capitellata,Urinary and kidney,kidney,1
+Oldenlandia,capitellata,Women's health,childbirth,1
+Oldenlandia,capitellata,Digestive,constipation; dysentery; gastric; indigestion,4
+Alocasia,macrorrhizos,Digestive,laxative,1
+Alocasia,macrorrhizos,Respiratory,cough,1
+Alocasia,macrorrhizos,Pain and inflammation,headache,1
+Alocasia,macrorrhizos,Skin and wounds,wounds,1
+Gomphandra,quadrifida,Women's health,childbirth,1
+Gomphandra,quadrifida,Pain and inflammation,rheumatism,1
+Gomphandra,quadrifida,General tonic and vitality,tonic,1
+Gomphandra,quadrifida,Digestive,laxative; stomachic,2
+Gomphandra,quadrifida,Urinary and kidney,diuretic,1
+Hydnophytum,formicarum,Skin and wounds,poultice,1
+Hydnophytum,formicarum,Pain and inflammation,headache,1
+Hydnophytum,formicarum,Liver,liver,1
+Hydnophytum,formicarum,Digestive,anthelmintic; intestinal,2
+Hydnophytum,formicarum,General tonic and vitality,tonic,1
+Melicope,lunu-ankenda,Respiratory,cold; colds,2
+Melicope,lunu-ankenda,Fever and infection,fever,2
+Melicope,lunu-ankenda,General tonic and vitality,tonic,1
+Melicope,lunu-ankenda,Women's health,emmenagogue,1
+Melicope,lunu-ankenda,Pain and inflammation,rheumatism,1
+Ficus,pungens,Skin and wounds,cut,1
+Ficus,pungens,Respiratory,cough,1
+Ficus,pungens,Pain and inflammation,pains,1
+Crateva,magna,Digestive,laxative,1
+Crateva,magna,Fever and infection,febrifuge; fever,2
+Crateva,magna,General tonic and vitality,tonic,1
+Senna,sophera,Nervous system,epilepsy,1
+Senna,sophera,Fever and infection,fever,1
+Senna,sophera,Respiratory,expectorant,1
+Senna,sophera,Skin and wounds,wound,1
+Tabernaemontana,sphaerocarpa,Fever and infection,fever,1
+Dracaena,angustifolia,Urinary and kidney,gonorrhoea,1
+Gunnera,macrophylla,General tonic and vitality,stimulant; tonic,2
+Gunnera,macrophylla,Women's health,childbirth,1
+Tinospora,glabra,Skin and wounds,sore,1
+Solanum,capsicoides,Pain and inflammation,toothache,1
+Strychnos,lucida,Fever and infection,fever,1
+Strychnos,lucida,Skin and wounds,burns; cuts; eczema; scabies; wounds,5
+Strychnos,lucida,Digestive,stomachic,1
+Strychnos,lucida,Cardiovascular and metabolic,diabetes,1
+Strychnos,lucida,Parasites and bites,poison,1
+Laportea,decumana,Fever and infection,fever,1
+Laportea,decumana,Pain and inflammation,pains,2
+Laportea,decumana,Digestive,intestinal,1
+Rubus,rosifolius,Respiratory,expectorant,1
+Rubus,rosifolius,Digestive,demulcent,1
+Indigofera,linnaei,Urinary and kidney,diuretic,2
+Indigofera,linnaei,Skin and wounds,burns,1
+Indigofera,linnaei,Nervous system,epilepsy,1
+Ellipanthus,tomentosus,Digestive,flatulence,1
+Ellipanthus,tomentosus,Nervous system,spasm,1
+Ellipanthus,tomentosus,Respiratory,asthma,1
+Scurrula,parasitica,General tonic and vitality,tonic,1
+Scurrula,parasitica,Pain and inflammation,pains,1
+Scurrula,parasitica,Cardiovascular and metabolic,blood pressure,1
+Globba,pendula,Digestive,anthelmintic,1
+Globba,pendula,Skin and wounds,poultice,1
+Globba,pendula,Women's health,childbirth,1
+Globba,pendula,Pain and inflammation,rheumatism,1
+Globba,pendula,Urinary and kidney,gonorrhoea,1
+Tapeinochilos,ananassae,Skin and wounds,poultice; wounds,2
+Globba,atrosanguinea,Fever and infection,fever,1
+Globba,atrosanguinea,Skin and wounds,poultice,1
+Acalypha,lanceolata,Fever and infection,antiseptic,1
+Acalypha,lanceolata,Skin and wounds,boils,1
+Acalypha,lanceolata,Pain and inflammation,headache,1
+Acalypha,lanceolata,Digestive,carminative,1
+Ficus,deltoidea,General tonic and vitality,aphrodisiac,1
+Ficus,deltoidea,Parasites and bites,poison,1
+Enicostema,axillare,Fever and infection,fever; malaria,2
+Enicostema,axillare,Urinary and kidney,diuretic,1
+Enicostema,axillare,Cardiovascular and metabolic,diabetic,1
+Enicostema,axillare,General tonic and vitality,tonic,1
+Enicostema,axillare,Digestive,anthelmintic,1
+Nothocnide,repanda,General tonic and vitality,tonic,1
+Nothocnide,repanda,Skin and wounds,ulcers,1
+Nothocnide,repanda,Pain and inflammation,inflammation,1
+Ficus,microcarpa,Skin and wounds,wounds,1
+Ficus,microcarpa,Pain and inflammation,headache; toothache,3
+Ficus,microcarpa,Liver,liver; liver trouble,2
+Ficus,microcarpa,Fever and infection,fever,1
+Aglaia,elliptica,Skin and wounds,wounds,1
+Scutellaria,indica,Skin and wounds,boils; poultice; scabies,3
+Scutellaria,indica,Digestive,carminative,1
+Scutellaria,indica,General tonic and vitality,tonic,1
+Scutellaria,indica,Fever and infection,febrifuge,1
+Diplectria,divaricata,Fever and infection,fever,1
+Diplectria,divaricata,Skin and wounds,poultice,1
+Diplectria,divaricata,Women's health,childbirth,1
+Dendrocnide,sinuata,Skin and wounds,scabies,1
+Dendrocnide,sinuata,Women's health,contraceptive,1
+Homalanthus,novoguineensis,Digestive,laxative,1
+Homalanthus,novoguineensis,General tonic and vitality,tonic,1
+Homalanthus,novoguineensis,Women's health,childbirth,1
+Entada,rheedii,Pain and inflammation,pains,1
+Entada,rheedii,Skin and wounds,itch; poultice,2
+Entada,rheedii,Fever and infection,fever,1
+Amomum,aculeatum,Women's health,childbirth,1
+Amomum,aculeatum,Fever and infection,fever,1
+Strychnos,minor,Women's health,emmenagogue,1
+Strychnos,minor,Parasites and bites,poison,1
+Strychnos,minor,Digestive,carminative; stomachic,2
+Dendrocnide,stimulans,Digestive,anthelmintic; constipation,2
+Uvaria,rufa,Fever and infection,fever,1
+Uvaria,rufa,Women's health,childbirth,1
+Uvaria,rufa,Skin and wounds,itch,1
+Dendranthema,indicum,Fever and infection,fever,1
+Dendranthema,indicum,Eye and ENT,ophthalmia,1
+Thottea,tomentosa,Urinary and kidney,urinary,1
+Thottea,tomentosa,Respiratory,cough,1
+Thottea,tomentosa,Parasites and bites,snakebite,1
+Dischidia,nummularia,Pain and inflammation,anodyne,1
+Dischidia,nummularia,Skin and wounds,wounds,1
+Dischidia,nummularia,Urinary and kidney,gonorrhoea,1
+Toxocarpus,villosus,Pain and inflammation,oedema; rheumatism,2
+Toxocarpus,villosus,Liver,jaundice,1
+Toxocarpus,villosus,Urinary and kidney,diuretic,1
+Toxocarpus,villosus,Skin and wounds,boils,1
+Caesalpinia,major,General tonic and vitality,tonic,2
+Caesalpinia,major,Digestive,anthelmintic,1
+Caesalpinia,major,Pain and inflammation,rheumatism,1
+Leptonychia,caudata,Women's health,childbirth,1
+Leptonychia,caudata,Fever and infection,febrifuge; fever,2
+Leptonychia,caudata,Skin and wounds,poultice,1
+Abutilon,hirtum,Skin and wounds,poultice; ulcers,2
+Abutilon,hirtum,Urinary and kidney,kidney,1
+Abutilon,hirtum,Respiratory,cough,1
+Abutilon,hirtum,Pain and inflammation,toothache,1
+Rauvolfia,amsoniifolia,Digestive,laxative; stomachic,2
+Rauvolfia,amsoniifolia,Fever and infection,febrifuge,1
+Ludwigia,hyssopifolia,Respiratory,cold,1
+Ludwigia,hyssopifolia,Skin and wounds,boils,1
+Ludwigia,hyssopifolia,Digestive,diarrhoea; dysentery,2
+Parkia,timoriana,Skin and wounds,scabies; ulcers; wounds,3
+Alternanthera,ficoidea,Fever and infection,antiviral,1
+Bidens,biternata,Skin and wounds,wounds,1
+Bidens,biternata,Digestive,anthelmintic,1
+Trichosanthes,villosa,Digestive,diarrhoea,1
+Trichosanthes,villosa,Fever and infection,fever,1
+Bauhinia,semibifida,Urinary and kidney,venereal,1
+Bauhinia,semibifida,Digestive,diarrhoea,1
+Bauhinia,semibifida,Skin and wounds,bruises,1
+Cnesmone,javanica,Parasites and bites,poison,1
+Rhododendron,macgregoriae,Skin and wounds,ulcers,1
+Rhododendron,macgregoriae,Digestive,diarrhoea; vomiting,2
+Scurrula,atropurpurea,Cancer and tumour,cancer,1
+Trichosanthes,quinquangulata,Skin and wounds,itch,1
+Vitex,quinata,General tonic and vitality,tonic,1
+Vitex,quinata,Digestive,stomachic,1
+Ficus,aurantiacea,Skin and wounds,poultice,1
+Ficus,aurantiacea,Fever and infection,fever,1
+Ficus,aurantiacea,Pain and inflammation,toothache,1
+Adenia,macrophylla,Skin and wounds,poultice,1
+Adenia,macrophylla,Pain and inflammation,headache,1
+Chydenanthus,excelsus,Parasites and bites,poison,1
+Mazus,pumilus,General tonic and vitality,tonic,1
+Mazus,pumilus,Fever and infection,febrifuge,1
+Euphorbia,barnhartii,Eye and ENT,earache,1
+Euphorbia,barnhartii,Skin and wounds,boils; poultice,2
+Cyperus,halpan,Fever and infection,febrifuge,1
+Croton,griffithii,Women's health,childbirth,1
+Croton,griffithii,Skin and wounds,ulcers,1
+Persicaria,barbata,Parasites and bites,poison,1
+Persicaria,barbata,Digestive,dysentery,1
+Ficus,nodosa,Fever and infection,antiseptic,1
+Cyperus,malaccensis,Urinary and kidney,diuretic,1
+Scleria,purpurascens,Respiratory,cough,1
+Scleria,purpurascens,Pain and inflammation,analgesic,1
+Ampelocissus,arachnoidea,Urinary and kidney,venereal,1
+Kaempferia,angustifolia,Digestive,diarrhoea; dysentery,2
+Thottea,corymbosa,Pain and inflammation,toothache,1
+Thottea,corymbosa,Women's health,childbirth,1
+Scleria,poaeformis,Skin and wounds,poultice,1
+Tetrastigma,leucostaphylum,Skin and wounds,boils; poultice,3
+Tetrastigma,leucostaphylum,Respiratory,cough,1
+Voacanga,grandifolia,Digestive,diarrhoea; worms,2
+Voacanga,grandifolia,Fever and infection,malaria,1
+Acacia,pluricapitata,Skin and wounds,poultice,1
+Acacia,pluricapitata,Pain and inflammation,headache,1
+Ixora,longifolia,Pain and inflammation,toothache,1
+Tabernaemontana,macrocarpa,Pain and inflammation,toothache,1
+Tabernaemontana,macrocarpa,Parasites and bites,poison,1
+Aglaia,argentea,Parasites and bites,insecticidal,1
+Alstonia,iwahigensis,Cardiovascular and metabolic,diabetes,1
+Alstonia,iwahigensis,General tonic and vitality,tonic,1
+Gomphostemma,javanicum,Skin and wounds,wounds,1
+Gomphostemma,javanicum,Digestive,intestinal,1
+Phaeanthus,splendens,Cardiovascular and metabolic,blood pressure,1
+Blumea,riparia,Skin and wounds,boils; sore,2
+Ficus,botryocarpa,Skin and wounds,boil,1
+Curcuma,soloensis,Skin and wounds,boils; scabies,2
+Curcuma,soloensis,Respiratory,cough,1
+Curcuma,soloensis,Fever and infection,fever,1
+Chionachne,macrophylla,Respiratory,cough,1
+Desmodium,repandum,Urinary and kidney,diuretic,1
+Aglaonema,simplex,Fever and infection,fever,1
+Amomum,ligulatum,Digestive,diarrhoea,1
+Barringtonia,macrocarpa,Parasites and bites,poison,1
+Kibatalia,arborea,Digestive,anthelmintic,1
+Kibatalia,arborea,Pain and inflammation,inflammation,1
+Drosera,burmannii,Nervous system,antispasmodic,1
+Drosera,burmannii,Respiratory,cough,1
+Drosera,burmannii,Fever and infection,malaria,1
+Melicope,bonwickii,Digestive,dysentery,1
+Harrisonia,brownii,Fever and infection,fever,1
+Harrisonia,brownii,Respiratory,asthma,1
+Ardisia,humilis,Skin and wounds,scabies,1
+Kalanchoe,crenata,Fever and infection,antiseptic,1
+Tylophora,cissoides,Digestive,abdominal pain,1
+Ficus,sagittata,Nervous system,narcotic,1
+Dalbergia,ferruginea,Women's health,emmenagogue,1
+Diplectria,viminalis,Women's health,childbirth,1
+Glochidion,glomerulatum,Digestive,dysentery,1
+Aglaia,lawii,Pain and inflammation,headache,1
+Lepidagathis,rumphii,Skin and wounds,poultice; wounds,2
+Lepidagathis,rumphii,Pain and inflammation,headache,1
+Staurogyne,elongata,Urinary and kidney,diuretic,1
+Clematis,pickeringii,Pain and inflammation,anodyne,1
+Strobilanthes,crispa,Urinary and kidney,kidney,1
+Strobilanthes,crispa,Cardiovascular and metabolic,diabetes,1
+Boerhavia,chinensis,Skin and wounds,scabies,1
+Scutellaria,javanica,Pain and inflammation,pains,1
+Arenga,porphyrocarpa,Urinary and kidney,urinary,1
+Amomum,stenocarpum,Respiratory,cough,1
+Macaranga,glaberrima,Skin and wounds,cuts,1
+Pararuellia,napifera,Urinary and kidney,kidney,1
+Argostemma,montanum,Fever and infection,fever,1
+Mallotus,blumeanus,Women's health,childbirth,1
+Rauvolfia,javanica,Skin and wounds,wounds,1
+Rauvolfia,reflexa,Digestive,laxative,1
+Matthaea,chartacea,Pain and inflammation,headache,1
